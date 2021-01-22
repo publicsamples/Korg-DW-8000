@@ -1,0 +1,80 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - spunky organs.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Spunky Organs Samples/
+
+<group>        // Group
+<region> sample=03 - Spunky Organs-107-127.wav key=31 lokey=31 hikey=31 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-71-127.wav key=68 lokey=68 hikey=68 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-108-127.wav key=32 lokey=32 hikey=32 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-37-127.wav key=34 lokey=34 hikey=34 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-47-127.wav key=44 lokey=44 hikey=44 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-69-127.wav key=66 lokey=66 hikey=66 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-90-127.wav key=87 lokey=87 hikey=87 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-88-127.wav key=85 lokey=85 hikey=85 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-77-127.wav key=74 lokey=74 hikey=74 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-74-127.wav key=71 lokey=71 hikey=71 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-91-127.wav key=88 lokey=88 hikey=88 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-42-127.wav key=39 lokey=39 hikey=39 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-44-127.wav key=41 lokey=41 hikey=41 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-79-127.wav key=76 lokey=76 hikey=76 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-53-127.wav key=50 lokey=50 hikey=50 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-39-127.wav key=36 lokey=36 hikey=36 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-63-127.wav key=60 lokey=60 hikey=60 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-106-127.wav key=30 lokey=30 hikey=30 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-56-127.wav key=53 lokey=53 hikey=53 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-93-127.wav key=90 lokey=90 hikey=90 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-64-127.wav key=61 lokey=61 hikey=61 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-59-127.wav key=56 lokey=56 hikey=56 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-104-127.wav key=28 lokey=28 hikey=28 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-102-127.wav key=26 lokey=26 hikey=26 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-82-127.wav key=79 lokey=79 hikey=79 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-50-127.wav key=47 lokey=47 hikey=47 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-49-127.wav key=46 lokey=46 hikey=46 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-68-127.wav key=65 lokey=65 hikey=65 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-60-127.wav key=57 lokey=57 hikey=57 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-105-127.wav key=29 lokey=29 hikey=29 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-57-127.wav key=54 lokey=54 hikey=54 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-38-127.wav key=35 lokey=35 hikey=35 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-80-127.wav key=77 lokey=77 hikey=77 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-81-127.wav key=78 lokey=78 hikey=78 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-85-127.wav key=82 lokey=82 hikey=82 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-87-127.wav key=84 lokey=84 hikey=84 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-73-127.wav key=70 lokey=70 hikey=70 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-66-127.wav key=63 lokey=63 hikey=63 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-61-127.wav key=58 lokey=58 hikey=58 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-75-127.wav key=72 lokey=72 hikey=72 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-62-127.wav key=59 lokey=59 hikey=59 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-65-127.wav key=62 lokey=62 hikey=62 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-97-127.wav key=94 lokey=94 hikey=94 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-92-127.wav key=89 lokey=89 hikey=89 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-78-127.wav key=75 lokey=75 hikey=75 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-67-127.wav key=64 lokey=64 hikey=64 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-95-127.wav key=92 lokey=92 hikey=92 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-103-127.wav key=27 lokey=27 hikey=27 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-45-127.wav key=42 lokey=42 hikey=42 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-86-127.wav key=83 lokey=83 hikey=83 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-84-127.wav key=81 lokey=81 hikey=81 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-100-127.wav key=24 lokey=24 hikey=24 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-76-127.wav key=73 lokey=73 hikey=73 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-51-127.wav key=48 lokey=48 hikey=48 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-83-127.wav key=80 lokey=80 hikey=80 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-99-127.wav key=96 lokey=96 hikey=96 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-40-127.wav key=37 lokey=37 hikey=37 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-70-127.wav key=67 lokey=67 hikey=67 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-72-127.wav key=69 lokey=69 hikey=69 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-46-127.wav key=43 lokey=43 hikey=43 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-54-127.wav key=51 lokey=51 hikey=51 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-58-127.wav key=55 lokey=55 hikey=55 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-52-127.wav key=49 lokey=49 hikey=49 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-89-127.wav key=86 lokey=86 hikey=86 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-36-127.wav key=33 lokey=33 hikey=33 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-55-127.wav key=52 lokey=52 hikey=52 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-98-127.wav key=95 lokey=95 hikey=95 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-48-127.wav key=45 lokey=45 hikey=45 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-94-127.wav key=91 lokey=91 hikey=91 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-96-127.wav key=93 lokey=93 hikey=93 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-41-127.wav key=38 lokey=38 hikey=38 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-101-127.wav key=25 lokey=25 hikey=25 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop
+<region> sample=03 - Spunky Organs-43-127.wav key=40 lokey=40 hikey=40 volume=6 amp_veltrack=30  offset=244 loop_mode=no_loop

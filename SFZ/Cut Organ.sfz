@@ -1,0 +1,70 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Cut Organ.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Cut organ Samples/
+
+<group>        // Group
+<region> sample=Cut organ-46-127.wav key=34 lokey=34 hikey=34 volume=6 amp_veltrack=30  tune=-8 loop_mode=no_loop
+<region> sample=Cut organ-61-127.wav key=49 lokey=49 hikey=49 volume=6 amp_veltrack=30  tune=-8 loop_mode=no_loop
+<region> sample=Cut organ-66-127.wav key=54 lokey=54 hikey=54 volume=6 amp_veltrack=30  tune=-9 loop_mode=no_loop
+<region> sample=Cut organ-57-127.wav key=45 lokey=45 hikey=45 volume=6 amp_veltrack=30  tune=-2 loop_mode=no_loop
+<region> sample=Cut organ-36-127.wav key=24 lokey=0 hikey=24 volume=6 amp_veltrack=30  tune=-14 loop_mode=no_loop
+<region> sample=Cut organ-51-127.wav key=39 lokey=39 hikey=39 volume=6 amp_veltrack=30  tune=-4 loop_mode=no_loop
+<region> sample=Cut organ-52-127.wav key=40 lokey=40 hikey=40 volume=6 amp_veltrack=30  tune=1 loop_mode=no_loop
+<region> sample=Cut organ-40-127.wav key=28 lokey=28 hikey=28 volume=6 amp_veltrack=30  tune=-6 loop_mode=no_loop
+<region> sample=Cut organ-53-127.wav key=41 lokey=41 hikey=41 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Cut organ-80-127.wav key=68 lokey=68 hikey=68 volume=6 amp_veltrack=30  tune=-6 loop_mode=no_loop
+<region> sample=Cut organ-62-127.wav key=50 lokey=50 hikey=50 volume=6 amp_veltrack=30  tune=-4 loop_mode=no_loop
+<region> sample=Cut organ-37-127.wav key=25 lokey=25 hikey=25 volume=6 amp_veltrack=30  tune=-16 loop_mode=no_loop
+<region> sample=Cut organ-60-127.wav key=48 lokey=48 hikey=48 volume=6 amp_veltrack=30  tune=-5 loop_mode=no_loop
+<region> sample=Cut organ-59-127.wav key=47 lokey=47 hikey=47 volume=6 amp_veltrack=30  tune=-5 loop_mode=no_loop
+<region> sample=Cut organ-64-127.wav key=52 lokey=52 hikey=52 volume=6 amp_veltrack=30  tune=-4 loop_mode=no_loop
+<region> sample=Cut organ-38-127.wav key=26 lokey=26 hikey=26 volume=6 amp_veltrack=30  tune=-15 loop_mode=no_loop
+<region> sample=Cut organ-39-127.wav key=27 lokey=27 hikey=27 volume=6 amp_veltrack=30  tune=-15 loop_mode=no_loop
+<region> sample=Cut organ-45-127.wav key=33 lokey=33 hikey=33 volume=6 amp_veltrack=30  tune=-10 loop_mode=no_loop
+<region> sample=Cut organ-65-127.wav key=53 lokey=53 hikey=53 volume=6 amp_veltrack=30  tune=-4 loop_mode=no_loop
+<region> sample=Cut organ-74-127.wav key=62 lokey=62 hikey=62 volume=6 amp_veltrack=30  tune=-6 loop_mode=no_loop
+<region> sample=Cut organ-44-127.wav key=32 lokey=32 hikey=32 volume=6 amp_veltrack=30  tune=-5 loop_mode=no_loop
+<region> sample=Cut organ-41-127.wav key=29 lokey=29 hikey=29 volume=6 amp_veltrack=30  tune=-4 loop_mode=no_loop
+<region> sample=Cut organ-50-127.wav key=38 lokey=38 hikey=38 volume=6 amp_veltrack=30  tune=-2 loop_mode=no_loop
+<region> sample=Cut organ-79-127.wav key=67 lokey=67 hikey=67 volume=6 amp_veltrack=30  tune=-6 loop_mode=no_loop
+<region> sample=Cut organ-56-127.wav key=44 lokey=44 hikey=44 volume=6 amp_veltrack=30  tune=-2 loop_mode=no_loop
+<region> sample=Cut organ-49-127.wav key=37 lokey=37 hikey=37 volume=6 amp_veltrack=30  tune=-4 loop_mode=no_loop
+<region> sample=Cut organ-58-127.wav key=46 lokey=46 hikey=46 volume=6 amp_veltrack=30  tune=-2 loop_mode=no_loop
+<region> sample=Cut organ-63-127.wav key=51 lokey=51 hikey=51 volume=6 amp_veltrack=30  tune=-6 loop_mode=no_loop
+<region> sample=Cut organ-42-127.wav key=30 lokey=30 hikey=30 volume=6 amp_veltrack=30  tune=-3 loop_mode=no_loop
+<region> sample=Cut organ-43-127.wav key=31 lokey=31 hikey=31 volume=6 amp_veltrack=30  tune=2 loop_mode=no_loop
+<region> sample=Cut organ-81-127.wav key=69 lokey=69 hikey=127 volume=6 amp_veltrack=30  tune=-6 loop_mode=no_loop
+<region> sample=Cut organ-68-127.wav key=56 lokey=56 hikey=56 volume=6 amp_veltrack=30  tune=-6 loop_mode=no_loop
+<region> sample=Cut organ-69-127.wav key=57 lokey=57 hikey=57 volume=6 amp_veltrack=30  tune=-5 loop_mode=no_loop
+<region> sample=Cut organ-78-127.wav key=66 lokey=66 hikey=66 volume=6 amp_veltrack=30  tune=-5 loop_mode=no_loop
+<region> sample=Cut organ-54-127.wav key=42 lokey=42 hikey=42 volume=6 amp_veltrack=30  tune=1 loop_mode=no_loop
+<region> sample=Cut organ-71-127.wav key=59 lokey=59 hikey=59 volume=6 amp_veltrack=30  tune=-7 loop_mode=no_loop
+<region> sample=Cut organ-77-127.wav key=65 lokey=65 hikey=65 volume=6 amp_veltrack=30  tune=-5 loop_mode=no_loop
+<region> sample=Cut organ-70-127.wav key=58 lokey=58 hikey=58 volume=6 amp_veltrack=30  tune=-6 loop_mode=no_loop
+<region> sample=Cut organ-67-127.wav key=55 lokey=55 hikey=55 volume=6 amp_veltrack=30  tune=-5 loop_mode=no_loop
+<region> sample=Cut organ-55-127.wav key=43 lokey=43 hikey=43 volume=6 amp_veltrack=30  tune=1 loop_mode=no_loop
+<region> sample=Cut organ-73-127.wav key=61 lokey=61 hikey=61 volume=6 amp_veltrack=30  tune=-6 loop_mode=no_loop
+<region> sample=Cut organ-76-127.wav key=64 lokey=64 hikey=64 volume=6 amp_veltrack=30  tune=-6 loop_mode=no_loop
+<region> sample=Cut organ-47-127.wav key=35 lokey=35 hikey=35 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Cut organ-48-127.wav key=36 lokey=36 hikey=36 volume=6 amp_veltrack=30  tune=-3 loop_mode=no_loop
+<region> sample=Cut organ-75-127.wav key=63 lokey=63 hikey=63 volume=6 amp_veltrack=30  tune=-6 loop_mode=no_loop
+<region> sample=Cut organ-72-127.wav key=60 lokey=60 hikey=60 volume=6 amp_veltrack=30  tune=-5 loop_mode=no_loop
+
+<group>        // Group 2
+<region> sample=Cut organ-94-127.wav key=26 lokey=26 hikey=27 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Cut organ-96-127.wav key=30 lokey=30 hikey=31 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Cut organ-85-127.wav key=8 lokey=8 hikey=9 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Cut organ-93-127.wav key=24 lokey=24 hikey=25 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Cut organ-95-127.wav key=28 lokey=28 hikey=29 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Cut organ-86-127.wav key=10 lokey=10 hikey=11 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Cut organ-83-127.wav key=4 lokey=4 hikey=5 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Cut organ-89-127.wav key=16 lokey=16 hikey=17 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Cut organ-84-127.wav key=6 lokey=6 hikey=7 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Cut organ-87-127.wav key=12 lokey=12 hikey=13 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Cut organ-91-127.wav key=20 lokey=20 hikey=21 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Cut organ-82-127.wav key=2 lokey=2 hikey=3 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Cut organ-90-127.wav key=18 lokey=18 hikey=19 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Cut organ-88-127.wav key=14 lokey=14 hikey=15 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Cut organ-92-127.wav key=22 lokey=22 hikey=23 volume=6 amp_veltrack=30  loop_mode=no_loop

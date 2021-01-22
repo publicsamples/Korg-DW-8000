@@ -1,0 +1,28 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - slowish.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Slowish Samples/
+
+<group>        // Group
+<region> sample=Slowish-36-127.wav key=25 lokey=0 hikey=26 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=95510 loop_end=278644
+<region> sample=Slowish-57-127.wav key=46 lokey=45 hikey=47 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=217905 loop_end=290749
+<region> sample=Slowish-96-127.wav key=85 lokey=84 hikey=127 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=77310 loop_end=154740
+<region> sample=Slowish-90-127.wav key=79 lokey=78 hikey=80 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=157626 loop_end=235490
+<region> sample=Slowish-81-127.wav key=70 lokey=69 hikey=71 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=211909 loop_end=289753
+<region> sample=Slowish-69-127.wav key=58 lokey=57 hikey=59 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=258010 loop_end=337870
+<region> sample=Slowish-45-127.wav key=34 lokey=33 hikey=35 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=84894 loop_end=193128
+<region> sample=Slowish-51-127.wav key=40 lokey=39 hikey=41 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=6253 loop_end=100421
+<region> sample=Slowish-39-127.wav key=28 lokey=27 hikey=29 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=158883 loop_end=331946
+<region> sample=Slowish-75-127.wav key=64 lokey=63 hikey=65 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=161957 loop_end=279996
+<region> sample=Slowish-93-127.wav key=82 lokey=81 hikey=83 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=164185 loop_end=261438
+<region> sample=Slowish-60-127.wav key=49 lokey=48 hikey=50 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=119137 loop_end=219436
+<region> sample=Slowish-72-127.wav key=61 lokey=60 hikey=62 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=229330 loop_end=329133
+<region> sample=Slowish-63-127.wav key=52 lokey=51 hikey=53 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=141224 loop_end=218080
+<region> sample=Slowish-54-127.wav key=43 lokey=42 hikey=44 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=143847 loop_end=335435
+<region> sample=Slowish-42-127.wav key=31 lokey=30 hikey=32 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=125973 loop_end=281480
+<region> sample=Slowish-66-127.wav key=55 lokey=54 hikey=56 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=39864 loop_end=119078
+<region> sample=Slowish-48-127.wav key=37 lokey=36 hikey=38 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=14800 loop_end=116383
+<region> sample=Slowish-78-127.wav key=67 lokey=66 hikey=68 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=170225 loop_end=249365
+<region> sample=Slowish-84-127.wav key=73 lokey=72 hikey=74 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=187289 loop_end=266194
+<region> sample=Slowish-87-127.wav key=76 lokey=75 hikey=77 volume=6 amp_veltrack=30  offset=628 loop_mode=loop_continuous loop_start=243639 loop_end=317486

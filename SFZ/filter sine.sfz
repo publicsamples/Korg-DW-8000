@@ -1,0 +1,30 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - filter sine.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Filter Sine (long) Samples/
+
+<group>        // Group 2
+<region> sample=Filter Sine (long)-96-127.wav key=32 lokey=31 hikey=34 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Filter Sine (long)-93-127.wav key=28 lokey=27 hikey=30 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Filter Sine (long)-90-127.wav key=24 lokey=23 hikey=26 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Filter Sine (long)-87-127.wav key=20 lokey=19 hikey=22 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Filter Sine (long)-84-127.wav key=16 lokey=15 hikey=18 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Filter Sine (long)-81-127.wav key=12 lokey=11 hikey=14 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Filter Sine (long)-78-127.wav key=8 lokey=7 hikey=10 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Filter Sine (long)-75-127.wav key=4 lokey=3 hikey=6 volume=6 amp_veltrack=30  loop_mode=no_loop
+
+<group>        // Group
+<region> sample=Filter Sine (long)-66-127.wav key=66 lokey=65 hikey=67 volume=6 amp_veltrack=30  tune=16 loop_mode=no_loop
+<region> sample=Filter Sine (long)-69-127.wav key=69 lokey=68 hikey=70 volume=6 amp_veltrack=30  tune=20 loop_mode=no_loop
+<region> sample=Filter Sine (long)-72-127.wav key=72 lokey=71 hikey=127 volume=6 amp_veltrack=30  tune=11 loop_mode=no_loop
+<region> sample=Filter Sine (long)-36-127.wav key=36 lokey=0 hikey=37 volume=6 amp_veltrack=30  tune=20 loop_mode=no_loop
+<region> sample=Filter Sine (long)-63-127.wav key=63 lokey=62 hikey=64 volume=6 amp_veltrack=30  tune=12 loop_mode=no_loop
+<region> sample=Filter Sine (long)-60-127.wav key=60 lokey=59 hikey=61 volume=6 amp_veltrack=30  tune=33 loop_mode=no_loop
+<region> sample=Filter Sine (long)-57-127.wav key=57 lokey=56 hikey=58 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Filter Sine (long)-54-127.wav key=54 lokey=53 hikey=55 volume=6 amp_veltrack=30  tune=11 loop_mode=no_loop
+<region> sample=Filter Sine (long)-51-127.wav key=51 lokey=50 hikey=52 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=Filter Sine (long)-48-127.wav key=48 lokey=47 hikey=49 volume=6 amp_veltrack=30  tune=-18 loop_mode=no_loop
+<region> sample=Filter Sine (long)-42-127.wav key=42 lokey=41 hikey=43 volume=6 amp_veltrack=30  tune=-14 loop_mode=no_loop
+<region> sample=Filter Sine (long)-45-127.wav key=45 lokey=44 hikey=46 volume=6 amp_veltrack=30  tune=-10 loop_mode=no_loop
+<region> sample=Filter Sine (long)-39-127.wav key=39 lokey=38 hikey=40 volume=6 amp_veltrack=30  tune=-22 loop_mode=no_loop

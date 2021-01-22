@@ -1,0 +1,80 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - walls.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Walls Samples/
+
+<group>        // Group
+<region> sample=04 - Walls-69-127.wav key=69 lokey=69 hikey=69 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=169485 loop_end=471395
+<region> sample=04 - Walls-44-127.wav key=44 lokey=44 hikey=44 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=349108 loop_end=481031
+<region> sample=04 - Walls-57-127.wav key=57 lokey=57 hikey=57 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=173229 loop_end=308237
+<region> sample=04 - Walls-99-127.wav key=99 lokey=99 hikey=99 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=60155 loop_end=191307
+<region> sample=04 - Walls-97-127.wav key=97 lokey=97 hikey=97 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=324034 loop_end=469039
+<region> sample=04 - Walls-101-127.wav key=101 lokey=101 hikey=101 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=45023 loop_end=161562
+<region> sample=04 - Walls-103-127.wav key=103 lokey=103 hikey=103 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=48243 loop_end=256824
+<region> sample=04 - Walls-87-127.wav key=87 lokey=87 hikey=87 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=239481 loop_end=368555
+<region> sample=04 - Walls-84-127.wav key=84 lokey=84 hikey=84 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=287049 loop_end=442825
+<region> sample=04 - Walls-85-127.wav key=85 lokey=85 hikey=85 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=212133 loop_end=353584
+<region> sample=04 - Walls-72-127.wav key=72 lokey=72 hikey=72 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=301005 loop_end=412409
+<region> sample=04 - Walls-67-127.wav key=67 lokey=67 hikey=67 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=76384 loop_end=356165
+<region> sample=04 - Walls-82-127.wav key=82 lokey=82 hikey=82 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=260641 loop_end=436812
+<region> sample=04 - Walls-89-127.wav key=89 lokey=89 hikey=89 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=335056 loop_end=450799
+<region> sample=04 - Walls-63-127.wav key=63 lokey=63 hikey=63 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=173357 loop_end=445705
+<region> sample=04 - Walls-61-127.wav key=61 lokey=61 hikey=61 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=103618 loop_end=458506
+<region> sample=04 - Walls-78-127.wav key=78 lokey=78 hikey=78 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=69271 loop_end=480740
+<region> sample=04 - Walls-81-127.wav key=81 lokey=81 hikey=81 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=237520 loop_end=426940
+<region> sample=04 - Walls-39-127.wav key=39 lokey=39 hikey=39 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=291759 loop_end=429684
+<region> sample=04 - Walls-88-127.wav key=88 lokey=88 hikey=88 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=305705 loop_end=430666
+<region> sample=04 - Walls-92-127.wav key=92 lokey=92 hikey=92 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=350710 loop_end=449125
+<region> sample=04 - Walls-80-127.wav key=80 lokey=80 hikey=80 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=162338 loop_end=359989
+<region> sample=04 - Walls-93-127.wav key=93 lokey=93 hikey=93 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=239180 loop_end=419479
+<region> sample=04 - Walls-36-127.wav key=36 lokey=0 hikey=36 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=215124 loop_end=446630
+<region> sample=04 - Walls-49-127.wav key=49 lokey=49 hikey=49 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=366071 loop_end=481981
+<region> sample=04 - Walls-71-127.wav key=71 lokey=71 hikey=71 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=238538 loop_end=451450
+<region> sample=04 - Walls-96-127.wav key=96 lokey=96 hikey=96 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=309519 loop_end=463103
+<region> sample=04 - Walls-64-127.wav key=64 lokey=64 hikey=64 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=229957 loop_end=409906
+<region> sample=04 - Walls-104-127.wav key=104 lokey=104 hikey=104 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=78306 loop_end=176680
+<region> sample=04 - Walls-65-127.wav key=65 lokey=65 hikey=65 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=274055 loop_end=389803
+<region> sample=04 - Walls-98-127.wav key=98 lokey=98 hikey=98 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=53175 loop_end=190454
+<region> sample=04 - Walls-106-127.wav key=106 lokey=106 hikey=106 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=122274 loop_end=252351
+<region> sample=04 - Walls-37-127.wav key=37 lokey=37 hikey=37 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=203649 loop_end=481076
+<region> sample=04 - Walls-55-127.wav key=55 lokey=55 hikey=55 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=138246 loop_end=285748
+<region> sample=04 - Walls-86-127.wav key=86 lokey=86 hikey=86 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=286367 loop_end=424458
+<region> sample=04 - Walls-77-127.wav key=77 lokey=77 hikey=77 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=125740 loop_end=357229
+<region> sample=04 - Walls-50-127.wav key=50 lokey=50 hikey=50 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=44778 loop_end=455770
+<region> sample=04 - Walls-94-127.wav key=94 lokey=94 hikey=94 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=305660 loop_end=479917
+<region> sample=04 - Walls-40-127.wav key=40 lokey=40 hikey=40 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=196414 loop_end=462317
+<region> sample=04 - Walls-45-127.wav key=45 lokey=45 hikey=45 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=53866 loop_end=169417
+<region> sample=04 - Walls-60-127.wav key=60 lokey=60 hikey=60 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=96213 loop_end=482266
+<region> sample=04 - Walls-74-127.wav key=74 lokey=74 hikey=74 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=38318 loop_end=388184
+<region> sample=04 - Walls-102-127.wav key=102 lokey=102 hikey=102 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=106979 loop_end=268802
+<region> sample=04 - Walls-91-127.wav key=91 lokey=91 hikey=91 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=271411 loop_end=375000
+<region> sample=04 - Walls-43-127.wav key=43 lokey=43 hikey=43 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=325141 loop_end=479627
+<region> sample=04 - Walls-53-127.wav key=53 lokey=53 hikey=53 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=148772 loop_end=251633
+<region> sample=04 - Walls-38-127.wav key=38 lokey=38 hikey=38 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=237667 loop_end=469172
+<region> sample=04 - Walls-47-127.wav key=47 lokey=47 hikey=47 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=79863 loop_end=195436
+<region> sample=04 - Walls-75-127.wav key=75 lokey=75 hikey=75 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=51127 loop_end=417115
+<region> sample=04 - Walls-54-127.wav key=54 lokey=54 hikey=54 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=159102 loop_end=264351
+<region> sample=04 - Walls-66-127.wav key=66 lokey=66 hikey=66 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=73595 loop_end=463480
+<region> sample=04 - Walls-56-127.wav key=56 lokey=56 hikey=56 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=178266 loop_end=293910
+<region> sample=04 - Walls-90-127.wav key=90 lokey=90 hikey=90 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=299814 loop_end=412308
+<region> sample=04 - Walls-105-127.wav key=105 lokey=105 hikey=105 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=60575 loop_end=248245
+<region> sample=04 - Walls-79-127.wav key=79 lokey=79 hikey=79 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=196414 loop_end=403425
+<region> sample=04 - Walls-59-127.wav key=59 lokey=59 hikey=59 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=45013 loop_end=475116
+<region> sample=04 - Walls-108-127.wav key=108 lokey=108 hikey=127 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=98037 loop_end=254676
+<region> sample=04 - Walls-52-127.wav key=52 lokey=52 hikey=52 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=102621 loop_end=264726
+<region> sample=04 - Walls-51-127.wav key=51 lokey=51 hikey=51 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=44837 loop_end=301873
+<region> sample=04 - Walls-76-127.wav key=76 lokey=76 hikey=76 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=299145 loop_end=481579
+<region> sample=04 - Walls-48-127.wav key=48 lokey=48 hikey=48 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=356538 loop_end=472289
+<region> sample=04 - Walls-100-127.wav key=100 lokey=100 hikey=100 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=65091 loop_end=188243
+<region> sample=04 - Walls-73-127.wav key=73 lokey=73 hikey=73 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=43963 loop_end=343974
+<region> sample=04 - Walls-41-127.wav key=41 lokey=41 hikey=41 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=314977 loop_end=453979
+<region> sample=04 - Walls-95-127.wav key=95 lokey=95 hikey=95 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=305532 loop_end=469486
+<region> sample=04 - Walls-83-127.wav key=83 lokey=83 hikey=83 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=207626 loop_end=371585
+<region> sample=04 - Walls-70-127.wav key=70 lokey=70 hikey=70 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=190320 loop_end=482200
+<region> sample=04 - Walls-62-127.wav key=62 lokey=62 hikey=62 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=80191 loop_end=481441
+<region> sample=04 - Walls-68-127.wav key=68 lokey=68 hikey=68 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=300833 loop_end=455201
+<region> sample=04 - Walls-58-127.wav key=58 lokey=58 hikey=58 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=194889 loop_end=310732
+<region> sample=04 - Walls-46-127.wav key=46 lokey=46 hikey=46 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=73866 loop_end=173135
+<region> sample=04 - Walls-107-127.wav key=107 lokey=107 hikey=107 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=164300 loop_end=286153
+<region> sample=04 - Walls-42-127.wav key=42 lokey=42 hikey=42 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=337757 loop_end=453270

@@ -1,0 +1,68 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - pulser.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Pulser Samples/
+
+<group>        // Group
+<region> sample=Pulser-70-127.wav key=70 lokey=70 hikey=70 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=315295 loop_end=416953
+<region> sample=Pulser-69-127.wav key=69 lokey=69 hikey=69 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=37927 loop_end=269441
+<region> sample=Pulser-67-127.wav key=67 lokey=67 hikey=67 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=190565 loop_end=418920
+<region> sample=Pulser-46-127.wav key=46 lokey=46 hikey=46 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=71843 loop_end=199634
+<region> sample=Pulser-87-127.wav key=87 lokey=87 hikey=87 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=254355 loop_end=410280
+<region> sample=Pulser-72-127.wav key=72 lokey=72 hikey=72 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=125800 loop_end=363551
+<region> sample=Pulser-56-127.wav key=56 lokey=56 hikey=56 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=130222 loop_end=359596
+<region> sample=Pulser-60-127.wav key=60 lokey=60 hikey=60 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=287728 loop_end=421775
+<region> sample=Pulser-58-127.wav key=58 lokey=58 hikey=58 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=182443 loop_end=413206
+<region> sample=Pulser-76-127.wav key=76 lokey=76 hikey=76 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=195670 loop_end=423969
+<region> sample=Pulser-49-127.wav key=49 lokey=49 hikey=49 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=130336 loop_end=359914
+<region> sample=Pulser-74-127.wav key=74 lokey=74 hikey=74 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=79928 loop_end=215135
+<region> sample=Pulser-81-127.wav key=81 lokey=81 hikey=81 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=142330 loop_end=373756
+<region> sample=Pulser-96-127.wav key=96 lokey=96 hikey=96 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=298168 loop_end=391175
+<region> sample=Pulser-42-127.wav key=42 lokey=42 hikey=42 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=84185 loop_end=312832
+<region> sample=Pulser-66-127.wav key=66 lokey=66 hikey=66 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=161904 loop_end=392215
+<region> sample=Pulser-39-127.wav key=39 lokey=39 hikey=39 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=72735 loop_end=304232
+<region> sample=Pulser-86-127.wav key=86 lokey=86 hikey=86 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=27164 loop_end=259025
+<region> sample=Pulser-44-127.wav key=44 lokey=44 hikey=44 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=165120 loop_end=394922
+<region> sample=Pulser-57-127.wav key=57 lokey=57 hikey=57 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=119942 loop_end=350236
+<region> sample=Pulser-65-127.wav key=65 lokey=65 hikey=65 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=20510 loop_end=250506
+<region> sample=Pulser-88-127.wav key=88 lokey=88 hikey=88 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=82938 loop_end=238819
+<region> sample=Pulser-95-127.wav key=95 lokey=95 hikey=95 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=15201 loop_end=295935
+<region> sample=Pulser-45-127.wav key=45 lokey=45 hikey=45 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=192253 loop_end=422948
+<region> sample=Pulser-93-127.wav key=93 lokey=93 hikey=93 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=17327 loop_end=121324
+<region> sample=Pulser-68-127.wav key=68 lokey=68 hikey=68 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=168050 loop_end=396355
+<region> sample=Pulser-73-127.wav key=73 lokey=73 hikey=73 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=62723 loop_end=383023
+<region> sample=Pulser-85-127.wav key=85 lokey=85 hikey=85 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=123650 loop_end=353326
+<region> sample=Pulser-62-127.wav key=62 lokey=62 hikey=62 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=128078 loop_end=359573
+<region> sample=Pulser-75-127.wav key=75 lokey=75 hikey=75 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=41941 loop_end=272314
+<region> sample=Pulser-89-127.wav key=89 lokey=89 hikey=89 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=183330 loop_end=414726
+<region> sample=Pulser-91-127.wav key=91 lokey=91 hikey=91 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=144398 loop_end=375811
+<region> sample=Pulser-59-127.wav key=59 lokey=59 hikey=59 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=92285 loop_end=204966
+<region> sample=Pulser-55-127.wav key=55 lokey=55 hikey=55 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=256976 loop_end=349649
+<region> sample=Pulser-84-127.wav key=84 lokey=84 hikey=84 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=167994 loop_end=398404
+<region> sample=Pulser-51-127.wav key=51 lokey=51 hikey=51 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=79884 loop_end=311380
+<region> sample=Pulser-90-127.wav key=90 lokey=90 hikey=90 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=134119 loop_end=364839
+<region> sample=Pulser-94-127.wav key=94 lokey=94 hikey=94 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=209988 loop_end=387893
+<region> sample=Pulser-48-127.wav key=48 lokey=48 hikey=48 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=90144 loop_end=321647
+<region> sample=Pulser-92-127.wav key=92 lokey=92 hikey=92 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=288262 loop_end=402741
+<region> sample=Pulser-63-127.wav key=63 lokey=63 hikey=63 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=96900 loop_end=231578
+<region> sample=Pulser-83-127.wav key=83 lokey=83 hikey=83 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=175411 loop_end=308288
+<region> sample=Pulser-38-127.wav key=38 lokey=38 hikey=38 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=3525 loop_end=235004
+<region> sample=Pulser-78-127.wav key=78 lokey=78 hikey=78 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=1752 loop_end=230522
+<region> sample=Pulser-43-127.wav key=43 lokey=43 hikey=43 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=39231 loop_end=270720
+<region> sample=Pulser-64-127.wav key=64 lokey=64 hikey=64 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=1019 loop_end=232258
+<region> sample=Pulser-71-127.wav key=71 lokey=71 hikey=71 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=163864 loop_end=392329
+<region> sample=Pulser-79-127.wav key=79 lokey=79 hikey=79 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=273442 loop_end=400433
+<region> sample=Pulser-61-127.wav key=61 lokey=61 hikey=61 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=111124 loop_end=341977
+<region> sample=Pulser-77-127.wav key=77 lokey=77 hikey=77 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=154642 loop_end=386144
+<region> sample=Pulser-50-127.wav key=50 lokey=50 hikey=50 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=177268 loop_end=408763
+<region> sample=Pulser-80-127.wav key=80 lokey=80 hikey=80 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=69653 loop_end=184937
+<region> sample=Pulser-82-127.wav key=82 lokey=82 hikey=82 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=173937 loop_end=402703
+<region> sample=Pulser-36-127_0001.wav key=36 lokey=36 hikey=36 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=169504 loop_end=400994
+<region> sample=Pulser-41-127.wav key=41 lokey=41 hikey=41 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=191577 loop_end=423073
+<region> sample=Pulser-52-127.wav key=52 lokey=52 hikey=52 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=69814 loop_end=301304
+<region> sample=Pulser-40-127.wav key=40 lokey=40 hikey=40 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=186996 loop_end=416340
+<region> sample=Pulser-53-127.wav key=53 lokey=53 hikey=53 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=140300 loop_end=371805
+<region> sample=Pulser-47-127.wav key=47 lokey=47 hikey=47 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=20971 loop_end=252455
+<region> sample=Pulser-37-127.wav key=37 lokey=37 hikey=37 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=151546 loop_end=380503
+<region> sample=Pulser-54-127.wav key=54 lokey=54 hikey=54 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=176367 loop_end=404072

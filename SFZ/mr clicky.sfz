@@ -1,0 +1,80 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - mr clicky.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Mr Clicky Samples/
+
+<group>        // Group
+<region> sample=07 - Mr Clicky Thud-82-127.wav key=82 lokey=82 hikey=82 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-103-127.wav key=103 lokey=103 hikey=103 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-52-127.wav key=52 lokey=52 hikey=52 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-48-127.wav key=48 lokey=48 hikey=48 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-97-127.wav key=97 lokey=97 hikey=97 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-51-127.wav key=51 lokey=51 hikey=51 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-73-127.wav key=73 lokey=73 hikey=73 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-41-127.wav key=41 lokey=41 hikey=41 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-38-127.wav key=38 lokey=38 hikey=38 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-88-127.wav key=88 lokey=88 hikey=88 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-69-127.wav key=69 lokey=69 hikey=69 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-79-127.wav key=79 lokey=79 hikey=79 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-77-127.wav key=77 lokey=77 hikey=77 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-66-127.wav key=66 lokey=66 hikey=66 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-72-127.wav key=72 lokey=72 hikey=72 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-59-127.wav key=59 lokey=59 hikey=59 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-75-127.wav key=75 lokey=75 hikey=75 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-47-127.wav key=47 lokey=47 hikey=47 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-98-127.wav key=98 lokey=98 hikey=98 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-100-127.wav key=100 lokey=100 hikey=100 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-71-127.wav key=71 lokey=71 hikey=71 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-99-127.wav key=99 lokey=99 hikey=99 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-57-127.wav key=57 lokey=57 hikey=57 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-64-127.wav key=64 lokey=64 hikey=64 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-49-127.wav key=49 lokey=49 hikey=49 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-36-127.wav key=36 lokey=36 hikey=36 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-46-127.wav key=46 lokey=46 hikey=46 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-93-127.wav key=93 lokey=93 hikey=93 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-95-127.wav key=95 lokey=95 hikey=95 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-89-127.wav key=89 lokey=89 hikey=89 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-91-127.wav key=91 lokey=91 hikey=91 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-67-127.wav key=67 lokey=67 hikey=67 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-94-127.wav key=94 lokey=94 hikey=94 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-108-127.wav key=108 lokey=108 hikey=108 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-56-127.wav key=56 lokey=56 hikey=56 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-53-127.wav key=53 lokey=53 hikey=53 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-54-127.wav key=54 lokey=54 hikey=54 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-45-127.wav key=45 lokey=45 hikey=45 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-63-127.wav key=63 lokey=63 hikey=63 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-62-127.wav key=62 lokey=62 hikey=62 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-65-127.wav key=65 lokey=65 hikey=65 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-50-127.wav key=50 lokey=50 hikey=50 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-90-127.wav key=90 lokey=90 hikey=90 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-84-127.wav key=84 lokey=84 hikey=84 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-68-127.wav key=68 lokey=68 hikey=68 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-76-127.wav key=76 lokey=76 hikey=76 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-44-127.wav key=44 lokey=44 hikey=44 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-58-127.wav key=58 lokey=58 hikey=58 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-101-127.wav key=101 lokey=101 hikey=101 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-80-127.wav key=80 lokey=80 hikey=80 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-96-127.wav key=96 lokey=96 hikey=96 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-104-127.wav key=104 lokey=104 hikey=104 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-40-127.wav key=40 lokey=40 hikey=40 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-61-127.wav key=61 lokey=61 hikey=61 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-43-127.wav key=43 lokey=43 hikey=43 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-60-127.wav key=60 lokey=60 hikey=60 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-78-127.wav key=78 lokey=78 hikey=78 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-86-127.wav key=86 lokey=86 hikey=86 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-83-127.wav key=83 lokey=83 hikey=83 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-55-127.wav key=55 lokey=55 hikey=55 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-74-127.wav key=74 lokey=74 hikey=74 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-81-127.wav key=81 lokey=81 hikey=81 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-92-127.wav key=92 lokey=92 hikey=92 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-102-127.wav key=102 lokey=102 hikey=102 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-37-127.wav key=37 lokey=37 hikey=37 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-87-127.wav key=87 lokey=87 hikey=87 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-105-127.wav key=105 lokey=105 hikey=105 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-42-127.wav key=42 lokey=42 hikey=42 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-85-127.wav key=85 lokey=85 hikey=85 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-70-127.wav key=70 lokey=70 hikey=70 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-39-127.wav key=39 lokey=39 hikey=39 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-106-127.wav key=106 lokey=106 hikey=106 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop
+<region> sample=07 - Mr Clicky Thud-107-127.wav key=107 lokey=107 hikey=107 lovel=0 hivel=127 volume=6 amp_veltrack=30  offset=774 loop_mode=no_loop

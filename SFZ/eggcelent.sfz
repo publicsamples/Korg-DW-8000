@@ -1,0 +1,80 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - eggcelent.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Eggcellent Samples/
+
+<group>        // Group
+<region> sample=02 - Eggcellent-107-127.wav key=43 lokey=43 hikey=43 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-48-127.wav key=57 lokey=57 hikey=57 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-62-127.wav key=71 lokey=71 hikey=71 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-46-127.wav key=55 lokey=55 hikey=55 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-102-127.wav key=38 lokey=38 hikey=38 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-80-127.wav key=89 lokey=89 hikey=89 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-52-127.wav key=61 lokey=61 hikey=61 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-39-127.wav key=48 lokey=48 hikey=48 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-65-127.wav key=74 lokey=74 hikey=74 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-41-127.wav key=50 lokey=50 hikey=50 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-64-127.wav key=73 lokey=73 hikey=73 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-78-127.wav key=87 lokey=87 hikey=87 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-38-127.wav key=47 lokey=47 hikey=47 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-42-127.wav key=51 lokey=51 hikey=51 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-106-127.wav key=42 lokey=42 hikey=42 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-40-127.wav key=49 lokey=49 hikey=49 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-44-127.wav key=53 lokey=53 hikey=53 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-89-127.wav key=98 lokey=98 hikey=98 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-94-127.wav key=103 lokey=103 hikey=103 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-45-127.wav key=54 lokey=54 hikey=54 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-50-127.wav key=59 lokey=59 hikey=59 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-101-127.wav key=37 lokey=37 hikey=37 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-81-127.wav key=90 lokey=90 hikey=90 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-86-127.wav key=95 lokey=95 hikey=95 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-66-127.wav key=75 lokey=75 hikey=75 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-63-127.wav key=72 lokey=72 hikey=72 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-51-127.wav key=60 lokey=60 hikey=60 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-36-127.wav key=45 lokey=45 hikey=45 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-58-127.wav key=67 lokey=67 hikey=67 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-73-127.wav key=82 lokey=82 hikey=82 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-95-127.wav key=104 lokey=104 hikey=104 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-98-127.wav key=107 lokey=107 hikey=107 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-60-127.wav key=69 lokey=69 hikey=69 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-99-127.wav key=108 lokey=108 hikey=127 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-56-127.wav key=65 lokey=65 hikey=65 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-77-127.wav key=86 lokey=86 hikey=86 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-71-127.wav key=80 lokey=80 hikey=80 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-108-127.wav key=44 lokey=44 hikey=44 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-67-127.wav key=76 lokey=76 hikey=76 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-55-127.wav key=64 lokey=64 hikey=64 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-85-127.wav key=94 lokey=94 hikey=94 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-88-127.wav key=97 lokey=97 hikey=97 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-83-127.wav key=92 lokey=92 hikey=92 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-90-127.wav key=99 lokey=99 hikey=99 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-91-127.wav key=100 lokey=100 hikey=100 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-100-127.wav key=36 lokey=0 hikey=36 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-57-127.wav key=66 lokey=66 hikey=66 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-92-127.wav key=101 lokey=101 hikey=101 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-96-127.wav key=105 lokey=105 hikey=105 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-47-127.wav key=56 lokey=56 hikey=56 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-59-127.wav key=68 lokey=68 hikey=68 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-103-127.wav key=39 lokey=39 hikey=39 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-75-127.wav key=84 lokey=84 hikey=84 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-79-127.wav key=88 lokey=88 hikey=88 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-37-127.wav key=46 lokey=46 hikey=46 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-84-127.wav key=93 lokey=93 hikey=93 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-68-127.wav key=77 lokey=77 hikey=77 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-54-127.wav key=63 lokey=63 hikey=63 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-69-127.wav key=78 lokey=78 hikey=78 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-87-127.wav key=96 lokey=96 hikey=96 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-70-127.wav key=79 lokey=79 hikey=79 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-76-127.wav key=85 lokey=85 hikey=85 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-74-127.wav key=83 lokey=83 hikey=83 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-61-127.wav key=70 lokey=70 hikey=70 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-72-127.wav key=81 lokey=81 hikey=81 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-105-127.wav key=41 lokey=41 hikey=41 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-97-127.wav key=106 lokey=106 hikey=106 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-49-127.wav key=58 lokey=58 hikey=58 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-43-127.wav key=52 lokey=52 hikey=52 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-53-127.wav key=62 lokey=62 hikey=62 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-82-127.wav key=91 lokey=91 hikey=91 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-104-127.wav key=40 lokey=40 hikey=40 volume=6 amp_veltrack=30  loop_mode=no_loop
+<region> sample=02 - Eggcellent-93-127.wav key=102 lokey=102 hikey=102 volume=6 amp_veltrack=30  loop_mode=no_loop

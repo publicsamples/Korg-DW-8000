@@ -1,0 +1,80 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - evils.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Evils Samples/
+
+<group>        // Group
+<region> sample=Evil-45-127.wav key=54 lokey=54 hikey=54 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=120736 loop_end=331707
+<region> sample=Evil-67-127.wav key=76 lokey=76 hikey=76 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=74503 loop_end=284432
+<region> sample=Evil-79-127.wav key=88 lokey=88 hikey=88 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=227053 loop_end=331678
+<region> sample=Evil-106-127.wav key=42 lokey=42 hikey=42 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=54744 loop_end=160635
+<region> sample=Evil-84-127.wav key=93 lokey=93 hikey=93 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=180269 loop_end=285331
+<region> sample=Evil-57-127.wav key=66 lokey=66 hikey=66 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=147214 loop_end=251498
+<region> sample=Evil-103-127.wav key=39 lokey=39 hikey=39 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=108771 loop_end=213178
+<region> sample=Evil-42-127.wav key=51 lokey=51 hikey=51 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=68870 loop_end=282852
+<region> sample=Evil-107-127.wav key=43 lokey=43 hikey=43 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=118524 loop_end=326667
+<region> sample=Evil-105-127.wav key=41 lokey=41 hikey=41 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=226424 loop_end=330054
+<region> sample=Evil-78-127.wav key=87 lokey=87 hikey=87 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=63912 loop_end=273561
+<region> sample=Evil-88-127.wav key=97 lokey=97 hikey=97 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=106442 loop_end=315250
+<region> sample=Evil-81-127.wav key=90 lokey=90 hikey=90 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=119106 loop_end=326817
+<region> sample=Evil-95-127.wav key=104 lokey=104 hikey=104 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=79457 loop_end=184368
+<region> sample=Evil-80-127.wav key=89 lokey=89 hikey=89 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=76878 loop_end=182202
+<region> sample=Evil-102-127.wav key=38 lokey=38 hikey=38 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=147740 loop_end=252815
+<region> sample=Evil-44-127.wav key=53 lokey=53 hikey=53 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=73736 loop_end=193511
+<region> sample=Evil-54-127.wav key=63 lokey=63 hikey=63 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=217193 loop_end=316613
+<region> sample=Evil-82-127.wav key=91 lokey=91 hikey=91 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=191334 loop_end=294979
+<region> sample=Evil-98-127.wav key=107 lokey=107 hikey=107 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=52463 loop_end=157010
+<region> sample=Evil-74-127.wav key=83 lokey=83 hikey=83 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=53530 loop_end=159824
+<region> sample=Evil-62-127.wav key=71 lokey=71 hikey=71 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=118277 loop_end=328067
+<region> sample=Evil-40-127.wav key=49 lokey=49 hikey=49 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=193538 loop_end=280595
+<region> sample=Evil-91-127.wav key=100 lokey=100 hikey=100 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=169551 loop_end=272620
+<region> sample=Evil-52-127.wav key=61 lokey=61 hikey=61 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=106834 loop_end=312631
+<region> sample=Evil-97-127.wav key=106 lokey=106 hikey=106 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=196392 loop_end=301602
+<region> sample=Evil-77-127.wav key=86 lokey=86 hikey=86 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=115753 loop_end=221347
+<region> sample=Evil-48-127.wav key=57 lokey=57 hikey=57 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=210974 loop_end=307334
+<region> sample=Evil-65-127.wav key=74 lokey=74 hikey=74 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=92710 loop_end=197512
+<region> sample=Evil-85-127.wav key=94 lokey=94 hikey=94 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=40780 loop_end=145262
+<region> sample=Evil-49-127.wav key=58 lokey=58 hikey=58 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=203962 loop_end=319732
+<region> sample=Evil-43-127.wav key=52 lokey=52 hikey=52 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=116929 loop_end=331898
+<region> sample=Evil-94-127.wav key=103 lokey=103 hikey=103 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=124268 loop_end=332064
+<region> sample=Evil-104-127.wav key=40 lokey=40 hikey=40 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=168721 loop_end=272471
+<region> sample=Evil-108-127.wav key=44 lokey=44 hikey=44 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=181706 loop_end=286463
+<region> sample=Evil-51-127.wav key=60 lokey=60 hikey=60 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=162591 loop_end=269057
+<region> sample=Evil-64-127.wav key=73 lokey=73 hikey=73 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=209204 loop_end=315821
+<region> sample=Evil-38-127.wav key=47 lokey=47 hikey=47 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=71910 loop_end=170273
+<region> sample=Evil-75-127.wav key=84 lokey=84 hikey=84 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=109738 loop_end=215680
+<region> sample=Evil-100-127.wav key=36 lokey=0 hikey=36 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=43311 loop_end=146481
+<region> sample=Evil-96-127.wav key=105 lokey=105 hikey=105 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=115663 loop_end=220126
+<region> sample=Evil-53-127.wav key=62 lokey=62 hikey=62 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=42952 loop_end=144258
+<region> sample=Evil-86-127.wav key=95 lokey=95 hikey=95 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=103227 loop_end=313019
+<region> sample=Evil-72-127.wav key=81 lokey=81 hikey=81 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=52284 loop_end=160442
+<region> sample=Evil-76-127.wav key=85 lokey=85 hikey=85 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=59744 loop_end=164240
+<region> sample=Evil-50-127.wav key=59 lokey=59 hikey=59 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=202919 loop_end=304237
+<region> sample=Evil-47-127.wav key=56 lokey=56 hikey=56 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=79015 loop_end=178269
+<region> sample=Evil-37-127.wav key=46 lokey=46 hikey=46 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=249838 loop_end=334735
+<region> sample=Evil-68-127.wav key=77 lokey=77 hikey=77 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=133152 loop_end=238301
+<region> sample=Evil-89-127.wav key=98 lokey=98 hikey=98 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=202153 loop_end=305191
+<region> sample=Evil-61-127.wav key=70 lokey=70 hikey=70 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=73839 loop_end=172127
+<region> sample=Evil-101-127.wav key=37 lokey=37 hikey=37 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=96710 loop_end=200888
+<region> sample=Evil-93-127.wav key=102 lokey=102 hikey=102 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=72633 loop_end=175116
+<region> sample=Evil-69-127.wav key=78 lokey=78 hikey=78 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=95051 loop_end=304690
+<region> sample=Evil-60-127.wav key=69 lokey=69 hikey=69 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=104801 loop_end=212157
+<region> sample=Evil-73-127.wav key=82 lokey=82 hikey=82 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=99382 loop_end=307031
+<region> sample=Evil-92-127.wav key=101 lokey=101 hikey=101 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=115893 loop_end=219630
+<region> sample=Evil-87-127.wav key=96 lokey=96 hikey=96 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=159676 loop_end=263985
+<region> sample=Evil-70-127.wav key=79 lokey=79 hikey=79 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=43813 loop_end=150138
+<region> sample=Evil-66-127.wav key=75 lokey=75 hikey=75 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=137360 loop_end=239594
+<region> sample=Evil-99-127.wav key=108 lokey=108 hikey=127 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=200960 loop_end=306074
+<region> sample=Evil-41-127.wav key=50 lokey=50 hikey=50 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=59696 loop_end=167198
+<region> sample=Evil-36-127.wav key=45 lokey=45 hikey=45 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=191599 loop_end=265332
+<region> sample=Evil-39-127.wav key=48 lokey=48 hikey=48 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=133590 loop_end=240063
+<region> sample=Evil-83-127.wav key=92 lokey=92 hikey=92 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=38846 loop_end=247690
+<region> sample=Evil-58-127.wav key=67 lokey=67 hikey=67 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=218426 loop_end=326909
+<region> sample=Evil-71-127.wav key=80 lokey=80 hikey=80 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=97108 loop_end=201472
+<region> sample=Evil-56-127.wav key=65 lokey=65 hikey=65 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=108789 loop_end=210817
+<region> sample=Evil-90-127.wav key=99 lokey=99 hikey=99 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=107118 loop_end=212317
+<region> sample=Evil-55-127.wav key=64 lokey=64 hikey=64 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=55449 loop_end=265377
+<region> sample=Evil-59-127.wav key=68 lokey=68 hikey=68 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=40263 loop_end=250643
+<region> sample=Evil-46-127.wav key=55 lokey=55 hikey=55 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=170196 loop_end=262383
+<region> sample=Evil-63-127.wav key=72 lokey=72 hikey=72 volume=6 amp_veltrack=30  loop_mode=loop_continuous loop_start=165233 loop_end=268399
