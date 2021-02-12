@@ -4,6 +4,7 @@ A six voice, dual oscillator polysynth from the mid 80s. It is a hybrid synth me
 
 -   **Formats:** Kontakt & Logic Sampler
 -    **Info:** [wikipedia.org](https://en.wikipedia.org/wiki/Korg_DW-8000/)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/dw8000.html)
 
 
 **This collection requires you to download the audio seperately**
