@@ -6,10 +6,8 @@ A six voice, dual oscillator polysynth from the mid 80s. It is a hybrid synth me
 -    **Info:** [wikipedia.org](https://en.wikipedia.org/wiki/Korg_DW-8000/)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/dw8000.html)
 
+**[Download Audio](https://github.com/publicsamples/Korg-DW-8000/releases/tag/1.0)**
 
-**This collection requires you to download the audio seperately**
-
-[Download Audio from Dropbox](https://www.dropbox.com/sh/wfz0oqm8tkbbj2r/AACsOtC3stWk8n-zyCub45S8a?dl=0)
 
 # Loading
 
