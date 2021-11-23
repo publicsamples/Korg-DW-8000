@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DecentSampler>
+    <ui>
+        <tab name="main">
+            <labeled-knob label="Filter Cutoff" maxValue="22000" minValue="0" textColor="FF000000" type="float" value="22000.0" x="0" y="0">
+                <binding level="instrument" parameter="FX_FILTER_FREQUENCY" position="0" translation="linear" translationOutputMax="3000" translationOutputMin="0.0" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Filter Resonance" maxValue="1" minValue="0" textColor="FF000000" type="float" value="0.5" x="100" y="0">
+                <binding level="instrument" parameter="FX_FILTER_RESONANCE" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.11" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Reverb Wet Level" maxValue="1000" minValue="0" textColor="FF000000" type="float" value="0.0" x="200" y="0">
+                <binding level="instrument" parameter="FX_REVERB_WET_LEVEL" position="1" translation="linear" translationOutputMax="1" translationOutputMin="0.0" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Reverb Room Size" maxValue="1000" minValue="0" textColor="FF000000" type="float" value="0.0" x="300" y="0">
+                <binding level="instrument" parameter="FX_REVERB_ROOM_SIZE" position="1" translation="linear" translationOutputMax="1" translationOutputMin="0.0" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Attack" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="0.0" x="0" y="100">
+                <binding level="instrument" parameter="ENV_ATTACK" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+            <labeled-knob label="Decay" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="0.0" x="100" y="100">
+                <binding level="instrument" parameter="ENV_DECAY" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+            <labeled-knob label="Sustain" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="2000.0" x="200" y="100">
+                <binding level="instrument" parameter="ENV_SUSTAIN" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+            <labeled-knob label="Release" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="400.0" x="300" y="100">
+                <binding level="instrument" parameter="ENV_RELEASE" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+        </tab>
+    </ui>
+    <groups>
+        <group>
+            <sample end="579584.000" hiNote="69" hiVel="127" loNote="69" loVel="1" loopEnabled="true" loopEnd="471395.000" loopStart="169485.000" path="walls Samples/04 - Walls-69-127.wav" pitchKeyTrack="1.0000" rootNote="69" start="0.000" volume="6.0dB"/>
+            <sample end="580608.000" hiNote="44" hiVel="127" loNote="44" loVel="1" loopEnabled="true" loopEnd="481031.000" loopStart="349108.000" path="walls Samples/04 - Walls-44-127.wav" pitchKeyTrack="1.0000" rootNote="44" start="0.000" volume="6.0dB"/>
+            <sample end="581120.000" hiNote="57" hiVel="127" loNote="57" loVel="1" loopEnabled="true" loopEnd="308237.000" loopStart="173229.000" path="walls Samples/04 - Walls-57-127.wav" pitchKeyTrack="1.0000" rootNote="57" start="0.000" volume="6.0dB"/>
+            <sample end="581632.000" hiNote="99" hiVel="127" loNote="99" loVel="1" loopEnabled="true" loopEnd="191307.000" loopStart="60155.000" path="walls Samples/04 - Walls-99-127.wav" pitchKeyTrack="1.0000" rootNote="99" start="0.000" volume="6.0dB"/>
+            <sample end="581120.000" hiNote="97" hiVel="127" loNote="97" loVel="1" loopEnabled="true" loopEnd="469039.000" loopStart="324034.000" path="walls Samples/04 - Walls-97-127.wav" pitchKeyTrack="1.0000" rootNote="97" start="0.000" volume="6.0dB"/>
+            <sample end="582656.000" hiNote="101" hiVel="127" loNote="101" loVel="1" loopEnabled="true" loopEnd="161562.000" loopStart="45023.000" path="walls Samples/04 - Walls-101-127.wav" pitchKeyTrack="1.0000" rootNote="101" start="0.000" volume="6.0dB"/>
+            <sample end="580096.000" hiNote="103" hiVel="127" loNote="103" loVel="1" loopEnabled="true" loopEnd="256824.000" loopStart="48243.000" path="walls Samples/04 - Walls-103-127.wav" pitchKeyTrack="1.0000" rootNote="103" start="0.000" volume="6.0dB"/>
+            <sample end="580608.000" hiNote="87" hiVel="127" loNote="87" loVel="1" loopEnabled="true" loopEnd="368555.000" loopStart="239481.000" path="walls Samples/04 - Walls-87-127.wav" pitchKeyTrack="1.0000" rootNote="87" start="0.000" volume="6.0dB"/>
+            <sample end="582144.000" hiNote="84" hiVel="127" loNote="84" loVel="1" loopEnabled="true" loopEnd="442825.000" loopStart="287049.000" path="walls Samples/04 - Walls-84-127.wav" pitchKeyTrack="1.0000" rootNote="84" start="0.000" volume="6.0dB"/>
+            <sample end="579584.000" hiNote="85" hiVel="127" loNote="85" loVel="1" loopEnabled="true" loopEnd="353584.000" loopStart="212133.000" path="walls Samples/04 - Walls-85-127.wav" pitchKeyTrack="1.0000" rootNote="85" start="0.000" volume="6.0dB"/>
+            <sample end="583680.000" hiNote="72" hiVel="127" loNote="72" loVel="1" loopEnabled="true" loopEnd="412409.000" loopStart="301005.000" path="walls Samples/04 - Walls-72-127.wav" pitchKeyTrack="1.0000" rootNote="72" start="0.000" volume="6.0dB"/>
+            <sample end="580608.000" hiNote="67" hiVel="127" loNote="67" loVel="1" loopEnabled="true" loopEnd="356165.000" loopStart="76384.000" path="walls Samples/04 - Walls-67-127.wav" pitchKeyTrack="1.0000" rootNote="67" start="0.000" volume="6.0dB"/>
+            <sample end="581120.000" hiNote="82" hiVel="127" loNote="82" loVel="1" loopEnabled="true" loopEnd="436812.000" loopStart="260641.000" path="walls Samples/04 - Walls-82-127.wav" pitchKeyTrack="1.0000" rootNote="82" start="0.000" volume="6.0dB"/>
+            <sample end="580608.000" hiNote="89" hiVel="127" loNote="89" loVel="1" loopEnabled="true" loopEnd="450799.000" loopStart="335056.000" path="walls Samples/04 - Walls-89-127.wav" pitchKeyTrack="1.0000" rootNote="89" start="0.000" volume="6.0dB"/>
+            <sample end="580608.000" hiNote="63" hiVel="127" loNote="63" loVel="1" loopEnabled="true" loopEnd="445705.000" loopStart="173357.000" path="walls Samples/04 - Walls-63-127.wav" pitchKeyTrack="1.0000" rootNote="63" start="0.000" volume="6.0dB"/>
+            <sample end="579072.000" hiNote="61" hiVel="127" loNote="61" loVel="1" loopEnabled="true" loopEnd="458506.000" loopStart="103618.000" path="walls Samples/04 - Walls-61-127.wav" pitchKeyTrack="1.0000" rootNote="61" start="0.000" volume="6.0dB"/>
+            <sample end="581120.000" hiNote="78" hiVel="127" loNote="78" loVel="1" loopEnabled="true" loopEnd="480740.000" loopStart="69271.000" path="walls Samples/04 - Walls-78-127.wav" pitchKeyTrack="1.0000" rootNote="78" start="0.000" volume="6.0dB"/>
+            <sample end="581120.000" hiNote="81" hiVel="127" loNote="81" loVel="1" loopEnabled="true" loopEnd="426940.000" loopStart="237520.000" path="walls Samples/04 - Walls-81-127.wav" pitchKeyTrack="1.0000" rootNote="81" start="0.000" volume="6.0dB"/>
+            <sample end="579072.000" hiNote="39" hiVel="127" loNote="39" loVel="1" loopEnabled="true" loopEnd="429684.000" loopStart="291759.000" path="walls Samples/04 - Walls-39-127.wav" pitchKeyTrack="1.0000" rootNote="39" start="0.000" volume="6.0dB"/>
+            <sample end="584192.000" hiNote="88" hiVel="127" loNote="88" loVel="1" loopEnabled="true" loopEnd="430666.000" loopStart="305705.000" path="walls Samples/04 - Walls-88-127.wav" pitchKeyTrack="1.0000" rootNote="88" start="0.000" volume="6.0dB"/>
+            <sample end="580608.000" hiNote="92" hiVel="127" loNote="92" loVel="1" loopEnabled="true" loopEnd="449125.000" loopStart="350710.000" path="walls Samples/04 - Walls-92-127.wav" pitchKeyTrack="1.0000" rootNote="92" start="0.000" volume="6.0dB"/>
+            <sample end="582144.000" hiNote="80" hiVel="127" loNote="80" loVel="1" loopEnabled="true" loopEnd="359989.000" loopStart="162338.000" path="walls Samples/04 - Walls-80-127.wav" pitchKeyTrack="1.0000" rootNote="80" start="0.000" volume="6.0dB"/>
+            <sample end="579072.000" hiNote="93" hiVel="127" loNote="93" loVel="1" loopEnabled="true" loopEnd="419479.000" loopStart="239180.000" path="walls Samples/04 - Walls-93-127.wav" pitchKeyTrack="1.0000" rootNote="93" start="0.000" volume="6.0dB"/>
+            <sample end="580096.000" hiNote="36" hiVel="127" loNote="0" loVel="1" loopEnabled="true" loopEnd="446630.000" loopStart="215124.000" path="walls Samples/04 - Walls-36-127.wav" pitchKeyTrack="1.0000" rootNote="36" start="0.000" volume="6.0dB"/>
+            <sample end="581632.000" hiNote="49" hiVel="127" loNote="49" loVel="1" loopEnabled="true" loopEnd="481981.000" loopStart="366071.000" path="walls Samples/04 - Walls-49-127.wav" pitchKeyTrack="1.0000" rootNote="49" start="0.000" volume="6.0dB"/>
+            <sample end="581120.000" hiNote="71" hiVel="127" loNote="71" loVel="1" loopEnabled="true" loopEnd="451450.000" loopStart="238538.000" path="walls Samples/04 - Walls-71-127.wav" pitchKeyTrack="1.0000" rootNote="71" start="0.000" volume="6.0dB"/>
+            <sample end="581120.000" hiNote="96" hiVel="127" loNote="96" loVel="1" loopEnabled="true" loopEnd="463103.000" loopStart="309519.000" path="walls Samples/04 - Walls-96-127.wav" pitchKeyTrack="1.0000" rootNote="96" start="0.000" volume="6.0dB"/>
+            <sample end="580608.000" hiNote="64" hiVel="127" loNote="64" loVel="1" loopEnabled="true" loopEnd="409906.000" loopStart="229957.000" path="walls Samples/04 - Walls-64-127.wav" pitchKeyTrack="1.0000" rootNote="64" start="0.000" volume="6.0dB"/>
+            <sample end="582656.000" hiNote="104" hiVel="127" loNote="104" loVel="1" loopEnabled="true" loopEnd="176680.000" loopStart="78306.000" path="walls Samples/04 - Walls-104-127.wav" pitchKeyTrack="1.0000" rootNote="104" start="0.000" volume="6.0dB"/>
+            <sample end="581632.000" hiNote="65" hiVel="127" loNote="65" loVel="1" loopEnabled="true" loopEnd="389803.000" loopStart="274055.000" path="walls Samples/04 - Walls-65-127.wav" pitchKeyTrack="1.0000" rootNote="65" start="0.000" volume="6.0dB"/>
+            <sample end="582144.000" hiNote="98" hiVel="127" loNote="98" loVel="1" loopEnabled="true" loopEnd="190454.000" loopStart="53175.000" path="walls Samples/04 - Walls-98-127.wav" pitchKeyTrack="1.0000" rootNote="98" start="0.000" volume="6.0dB"/>
+            <sample end="581120.000" hiNote="106" hiVel="127" loNote="106" loVel="1" loopEnabled="true" loopEnd="252351.000" loopStart="122274.000" path="walls Samples/04 - Walls-106-127.wav" pitchKeyTrack="1.0000" rootNote="106" start="0.000" volume="6.0dB"/>
+            <sample end="581120.000" hiNote="37" hiVel="127" loNote="37" loVel="1" loopEnabled="true" loopEnd="481076.000" loopStart="203649.000" path="walls Samples/04 - Walls-37-127.wav" pitchKeyTrack="1.0000" rootNote="37" start="0.000" volume="6.0dB"/>
+            <sample end="580608.000" hiNote="55" hiVel="127" loNote="55" loVel="1" loopEnabled="true" loopEnd="285748.000" loopStart="138246.000" path="walls Samples/04 - Walls-55-127.wav" pitchKeyTrack="1.0000" rootNote="55" start="0.000" volume="6.0dB"/>
+            <sample end="581120.000" hiNote="86" hiVel="127" loNote="86" loVel="1" loopEnabled="true" loopEnd="424458.000" loopStart="286367.000" path="walls Samples/04 - Walls-86-127.wav" pitchKeyTrack="1.0000" rootNote="86" start="0.000" volume="6.0dB"/>
+            <sample end="581632.000" hiNote="77" hiVel="127" loNote="77" loVel="1" loopEnabled="true" loopEnd="357229.000" loopStart="125740.000" path="walls Samples/04 - Walls-77-127.wav" pitchKeyTrack="1.0000" rootNote="77" start="0.000" volume="6.0dB"/>
+            <sample end="581632.000" hiNote="50" hiVel="127" loNote="50" loVel="1" loopEnabled="true" loopEnd="455770.000" loopStart="44778.000" path="walls Samples/04 - Walls-50-127.wav" pitchKeyTrack="1.0000" rootNote="50" start="0.000" volume="6.0dB"/>
+            <sample end="582656.000" hiNote="94" hiVel="127" loNote="94" loVel="1" loopEnabled="true" loopEnd="479917.000" loopStart="305660.000" path="walls Samples/04 - Walls-94-127.wav" pitchKeyTrack="1.0000" rootNote="94" start="0.000" volume="6.0dB"/>
+            <sample end="582144.000" hiNote="40" hiVel="127" loNote="40" loVel="1" loopEnabled="true" loopEnd="462317.000" loopStart="196414.000" path="walls Samples/04 - Walls-40-127.wav" pitchKeyTrack="1.0000" rootNote="40" start="0.000" volume="6.0dB"/>
+            <sample end="578560.000" hiNote="45" hiVel="127" loNote="45" loVel="1" loopEnabled="true" loopEnd="169417.000" loopStart="53866.000" path="walls Samples/04 - Walls-45-127.wav" pitchKeyTrack="1.0000" rootNote="45" start="0.000" volume="6.0dB"/>
+            <sample end="581632.000" hiNote="60" hiVel="127" loNote="60" loVel="1" loopEnabled="true" loopEnd="482266.000" loopStart="96213.000" path="walls Samples/04 - Walls-60-127.wav" pitchKeyTrack="1.0000" rootNote="60" start="0.000" volume="6.0dB"/>
+            <sample end="580608.000" hiNote="74" hiVel="127" loNote="74" loVel="1" loopEnabled="true" loopEnd="388184.000" loopStart="38318.000" path="walls Samples/04 - Walls-74-127.wav" pitchKeyTrack="1.0000" rootNote="74" start="0.000" volume="6.0dB"/>
+            <sample end="580096.000" hiNote="102" hiVel="127" loNote="102" loVel="1" loopEnabled="true" loopEnd="268802.000" loopStart="106979.000" path="walls Samples/04 - Walls-102-127.wav" pitchKeyTrack="1.0000" rootNote="102" start="0.000" volume="6.0dB"/>
+            <sample end="582656.000" hiNote="91" hiVel="127" loNote="91" loVel="1" loopEnabled="true" loopEnd="375000.000" loopStart="271411.000" path="walls Samples/04 - Walls-91-127.wav" pitchKeyTrack="1.0000" rootNote="91" start="0.000" volume="6.0dB"/>
+            <sample end="582144.000" hiNote="43" hiVel="127" loNote="43" loVel="1" loopEnabled="true" loopEnd="479627.000" loopStart="325141.000" path="walls Samples/04 - Walls-43-127.wav" pitchKeyTrack="1.0000" rootNote="43" start="0.000" volume="6.0dB"/>
+            <sample end="582656.000" hiNote="53" hiVel="127" loNote="53" loVel="1" loopEnabled="true" loopEnd="251633.000" loopStart="148772.000" path="walls Samples/04 - Walls-53-127.wav" pitchKeyTrack="1.0000" rootNote="53" start="0.000" volume="6.0dB"/>
+            <sample end="579584.000" hiNote="38" hiVel="127" loNote="38" loVel="1" loopEnabled="true" loopEnd="469172.000" loopStart="237667.000" path="walls Samples/04 - Walls-38-127.wav" pitchKeyTrack="1.0000" rootNote="38" start="0.000" volume="6.0dB"/>
+            <sample end="582656.000" hiNote="47" hiVel="127" loNote="47" loVel="1" loopEnabled="true" loopEnd="195436.000" loopStart="79863.000" path="walls Samples/04 - Walls-47-127.wav" pitchKeyTrack="1.0000" rootNote="47" start="0.000" volume="6.0dB"/>
+            <sample end="580608.000" hiNote="75" hiVel="127" loNote="75" loVel="1" loopEnabled="true" loopEnd="417115.000" loopStart="51127.000" path="walls Samples/04 - Walls-75-127.wav" pitchKeyTrack="1.0000" rootNote="75" start="0.000" volume="6.0dB"/>
+            <sample end="581120.000" hiNote="54" hiVel="127" loNote="54" loVel="1" loopEnabled="true" loopEnd="264351.000" loopStart="159102.000" path="walls Samples/04 - Walls-54-127.wav" pitchKeyTrack="1.0000" rootNote="54" start="0.000" volume="6.0dB"/>
+            <sample end="584192.000" hiNote="66" hiVel="127" loNote="66" loVel="1" loopEnabled="true" loopEnd="463480.000" loopStart="73595.000" path="walls Samples/04 - Walls-66-127.wav" pitchKeyTrack="1.0000" rootNote="66" start="0.000" volume="6.0dB"/>
+            <sample end="586752.000" hiNote="56" hiVel="127" loNote="56" loVel="1" loopEnabled="true" loopEnd="293910.000" loopStart="178266.000" path="walls Samples/04 - Walls-56-127.wav" pitchKeyTrack="1.0000" rootNote="56" start="0.000" volume="6.0dB"/>
+            <sample end="581120.000" hiNote="90" hiVel="127" loNote="90" loVel="1" loopEnabled="true" loopEnd="412308.000" loopStart="299814.000" path="walls Samples/04 - Walls-90-127.wav" pitchKeyTrack="1.0000" rootNote="90" start="0.000" volume="6.0dB"/>
+            <sample end="580096.000" hiNote="105" hiVel="127" loNote="105" loVel="1" loopEnabled="true" loopEnd="248245.000" loopStart="60575.000" path="walls Samples/04 - Walls-105-127.wav" pitchKeyTrack="1.0000" rootNote="105" start="0.000" volume="6.0dB"/>
+            <sample end="580096.000" hiNote="79" hiVel="127" loNote="79" loVel="1" loopEnabled="true" loopEnd="403425.000" loopStart="196414.000" path="walls Samples/04 - Walls-79-127.wav" pitchKeyTrack="1.0000" rootNote="79" start="0.000" volume="6.0dB"/>
+            <sample end="582144.000" hiNote="59" hiVel="127" loNote="59" loVel="1" loopEnabled="true" loopEnd="475116.000" loopStart="45013.000" path="walls Samples/04 - Walls-59-127.wav" pitchKeyTrack="1.0000" rootNote="59" start="0.000" volume="6.0dB"/>
+            <sample end="580096.000" hiNote="127" hiVel="127" loNote="108" loVel="1" loopEnabled="true" loopEnd="254676.000" loopStart="98037.000" path="walls Samples/04 - Walls-108-127.wav" pitchKeyTrack="1.0000" rootNote="108" start="0.000" volume="6.0dB"/>
+            <sample end="582656.000" hiNote="52" hiVel="127" loNote="52" loVel="1" loopEnabled="true" loopEnd="264726.000" loopStart="102621.000" path="walls Samples/04 - Walls-52-127.wav" pitchKeyTrack="1.0000" rootNote="52" start="0.000" volume="6.0dB"/>
+            <sample end="583168.000" hiNote="51" hiVel="127" loNote="51" loVel="1" loopEnabled="true" loopEnd="301873.000" loopStart="44837.000" path="walls Samples/04 - Walls-51-127.wav" pitchKeyTrack="1.0000" rootNote="51" start="0.000" volume="6.0dB"/>
+            <sample end="582656.000" hiNote="76" hiVel="127" loNote="76" loVel="1" loopEnabled="true" loopEnd="481579.000" loopStart="299145.000" path="walls Samples/04 - Walls-76-127.wav" pitchKeyTrack="1.0000" rootNote="76" start="0.000" volume="6.0dB"/>
+            <sample end="582144.000" hiNote="48" hiVel="127" loNote="48" loVel="1" loopEnabled="true" loopEnd="472289.000" loopStart="356538.000" path="walls Samples/04 - Walls-48-127.wav" pitchKeyTrack="1.0000" rootNote="48" start="0.000" volume="6.0dB"/>
+            <sample end="581120.000" hiNote="100" hiVel="127" loNote="100" loVel="1" loopEnabled="true" loopEnd="188243.000" loopStart="65091.000" path="walls Samples/04 - Walls-100-127.wav" pitchKeyTrack="1.0000" rootNote="100" start="0.000" volume="6.0dB"/>
+            <sample end="581120.000" hiNote="73" hiVel="127" loNote="73" loVel="1" loopEnabled="true" loopEnd="343974.000" loopStart="43963.000" path="walls Samples/04 - Walls-73-127.wav" pitchKeyTrack="1.0000" rootNote="73" start="0.000" volume="6.0dB"/>
+            <sample end="585216.000" hiNote="41" hiVel="127" loNote="41" loVel="1" loopEnabled="true" loopEnd="453979.000" loopStart="314977.000" path="walls Samples/04 - Walls-41-127.wav" pitchKeyTrack="1.0000" rootNote="41" start="0.000" volume="6.0dB"/>
+            <sample end="580608.000" hiNote="95" hiVel="127" loNote="95" loVel="1" loopEnabled="true" loopEnd="469486.000" loopStart="305532.000" path="walls Samples/04 - Walls-95-127.wav" pitchKeyTrack="1.0000" rootNote="95" start="0.000" volume="6.0dB"/>
+            <sample end="581632.000" hiNote="83" hiVel="127" loNote="83" loVel="1" loopEnabled="true" loopEnd="371585.000" loopStart="207626.000" path="walls Samples/04 - Walls-83-127.wav" pitchKeyTrack="1.0000" rootNote="83" start="0.000" volume="6.0dB"/>
+            <sample end="582656.000" hiNote="70" hiVel="127" loNote="70" loVel="1" loopEnabled="true" loopEnd="482200.000" loopStart="190320.000" path="walls Samples/04 - Walls-70-127.wav" pitchKeyTrack="1.0000" rootNote="70" start="0.000" volume="6.0dB"/>
+            <sample end="582656.000" hiNote="62" hiVel="127" loNote="62" loVel="1" loopEnabled="true" loopEnd="481441.000" loopStart="80191.000" path="walls Samples/04 - Walls-62-127.wav" pitchKeyTrack="1.0000" rootNote="62" start="0.000" volume="6.0dB"/>
+            <sample end="582656.000" hiNote="68" hiVel="127" loNote="68" loVel="1" loopEnabled="true" loopEnd="455201.000" loopStart="300833.000" path="walls Samples/04 - Walls-68-127.wav" pitchKeyTrack="1.0000" rootNote="68" start="0.000" volume="6.0dB"/>
+            <sample end="582144.000" hiNote="58" hiVel="127" loNote="58" loVel="1" loopEnabled="true" loopEnd="310732.000" loopStart="194889.000" path="walls Samples/04 - Walls-58-127.wav" pitchKeyTrack="1.0000" rootNote="58" start="0.000" volume="6.0dB"/>
+            <sample end="582144.000" hiNote="46" hiVel="127" loNote="46" loVel="1" loopEnabled="true" loopEnd="173135.000" loopStart="73866.000" path="walls Samples/04 - Walls-46-127.wav" pitchKeyTrack="1.0000" rootNote="46" start="0.000" volume="6.0dB"/>
+            <sample end="581120.000" hiNote="107" hiVel="127" loNote="107" loVel="1" loopEnabled="true" loopEnd="286153.000" loopStart="164300.000" path="walls Samples/04 - Walls-107-127.wav" pitchKeyTrack="1.0000" rootNote="107" start="0.000" volume="6.0dB"/>
+            <sample end="583680.000" hiNote="42" hiVel="127" loNote="42" loVel="1" loopEnabled="true" loopEnd="453270.000" loopStart="337757.000" path="walls Samples/04 - Walls-42-127.wav" pitchKeyTrack="1.0000" rootNote="42" start="0.000" volume="6.0dB"/>
+        </group>
+    </groups>
+    <effects>
+        <effect frequency="22000" resonance="0.5" type="lowpass_4pl"/>
+        <effect type="reverb"/>
+    </effects>
+</DecentSampler>

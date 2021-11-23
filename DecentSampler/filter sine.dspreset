@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DecentSampler>
+    <ui>
+        <tab name="main">
+            <labeled-knob label="Filter Cutoff" maxValue="22000" minValue="0" textColor="FF000000" type="float" value="22000.0" x="0" y="0">
+                <binding level="instrument" parameter="FX_FILTER_FREQUENCY" position="0" translation="linear" translationOutputMax="3000" translationOutputMin="0.0" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Filter Resonance" maxValue="1" minValue="0" textColor="FF000000" type="float" value="0.5" x="100" y="0">
+                <binding level="instrument" parameter="FX_FILTER_RESONANCE" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.11" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Reverb Wet Level" maxValue="1000" minValue="0" textColor="FF000000" type="float" value="0.0" x="200" y="0">
+                <binding level="instrument" parameter="FX_REVERB_WET_LEVEL" position="1" translation="linear" translationOutputMax="1" translationOutputMin="0.0" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Reverb Room Size" maxValue="1000" minValue="0" textColor="FF000000" type="float" value="0.0" x="300" y="0">
+                <binding level="instrument" parameter="FX_REVERB_ROOM_SIZE" position="1" translation="linear" translationOutputMax="1" translationOutputMin="0.0" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Attack" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="0.0" x="0" y="100">
+                <binding level="instrument" parameter="ENV_ATTACK" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+            <labeled-knob label="Decay" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="0.0" x="100" y="100">
+                <binding level="instrument" parameter="ENV_DECAY" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+            <labeled-knob label="Sustain" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="2000.0" x="200" y="100">
+                <binding level="instrument" parameter="ENV_SUSTAIN" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+            <labeled-knob label="Release" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="400.0" x="300" y="100">
+                <binding level="instrument" parameter="ENV_RELEASE" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+        </tab>
+    </ui>
+    <groups>
+        <group>
+            <sample end="540160.000" hiNote="34" hiVel="127" loNote="31" loVel="1" path="filter sine Samples/Filter Sine (long)-96-127.wav" pitchKeyTrack="1.0000" rootNote="32" start="0.000" volume="6.0dB"/>
+            <sample end="542208.000" hiNote="30" hiVel="127" loNote="27" loVel="1" path="filter sine Samples/Filter Sine (long)-93-127.wav" pitchKeyTrack="1.0000" rootNote="28" start="0.000" volume="6.0dB"/>
+            <sample end="538624.000" hiNote="26" hiVel="127" loNote="23" loVel="1" path="filter sine Samples/Filter Sine (long)-90-127.wav" pitchKeyTrack="1.0000" rootNote="24" start="0.000" volume="6.0dB"/>
+            <sample end="539136.000" hiNote="22" hiVel="127" loNote="19" loVel="1" path="filter sine Samples/Filter Sine (long)-87-127.wav" pitchKeyTrack="1.0000" rootNote="20" start="0.000" volume="6.0dB"/>
+            <sample end="535040.000" hiNote="18" hiVel="127" loNote="15" loVel="1" path="filter sine Samples/Filter Sine (long)-84-127.wav" pitchKeyTrack="1.0000" rootNote="16" start="0.000" volume="6.0dB"/>
+            <sample end="540160.000" hiNote="14" hiVel="127" loNote="11" loVel="1" path="filter sine Samples/Filter Sine (long)-81-127.wav" pitchKeyTrack="1.0000" rootNote="12" start="0.000" volume="6.0dB"/>
+            <sample end="540672.000" hiNote="10" hiVel="127" loNote="7" loVel="1" path="filter sine Samples/Filter Sine (long)-78-127.wav" pitchKeyTrack="1.0000" rootNote="8" start="0.000" volume="6.0dB"/>
+            <sample end="539648.000" hiNote="6" hiVel="127" loNote="3" loVel="1" path="filter sine Samples/Filter Sine (long)-75-127.wav" pitchKeyTrack="1.0000" rootNote="4" start="0.000" volume="6.0dB"/>
+        </group>
+        <group>
+            <sample end="536576.000" hiNote="67" hiVel="127" loNote="65" loVel="1" path="filter sine Samples/Filter Sine (long)-66-127.wav" pitchKeyTrack="1.0000" rootNote="66" start="0.000" tuning="0.00" volume="6.0dB"/>
+            <sample end="542208.000" hiNote="70" hiVel="127" loNote="68" loVel="1" path="filter sine Samples/Filter Sine (long)-69-127.wav" pitchKeyTrack="1.0000" rootNote="69" start="0.000" tuning="0.00" volume="6.0dB"/>
+            <sample end="539648.000" hiNote="127" hiVel="127" loNote="71" loVel="1" path="filter sine Samples/Filter Sine (long)-72-127.wav" pitchKeyTrack="1.0000" rootNote="72" start="0.000" tuning="0.00" volume="6.0dB"/>
+            <sample end="535040.000" hiNote="37" hiVel="127" loNote="0" loVel="1" path="filter sine Samples/Filter Sine (long)-36-127.wav" pitchKeyTrack="1.0000" rootNote="36" start="0.000" tuning="0.00" volume="6.0dB"/>
+            <sample end="540160.000" hiNote="64" hiVel="127" loNote="62" loVel="1" path="filter sine Samples/Filter Sine (long)-63-127.wav" pitchKeyTrack="1.0000" rootNote="63" start="0.000" tuning="0.00" volume="6.0dB"/>
+            <sample end="534016.000" hiNote="61" hiVel="127" loNote="59" loVel="1" path="filter sine Samples/Filter Sine (long)-60-127.wav" pitchKeyTrack="1.0000" rootNote="60" start="0.000" tuning="0.00" volume="6.0dB"/>
+            <sample end="539648.000" hiNote="58" hiVel="127" loNote="56" loVel="1" path="filter sine Samples/Filter Sine (long)-57-127.wav" pitchKeyTrack="1.0000" rootNote="57" start="0.000" volume="6.0dB"/>
+            <sample end="540160.000" hiNote="55" hiVel="127" loNote="53" loVel="1" path="filter sine Samples/Filter Sine (long)-54-127.wav" pitchKeyTrack="1.0000" rootNote="54" start="0.000" tuning="0.00" volume="6.0dB"/>
+            <sample end="541184.000" hiNote="52" hiVel="127" loNote="50" loVel="1" path="filter sine Samples/Filter Sine (long)-51-127.wav" pitchKeyTrack="1.0000" rootNote="51" start="0.000" volume="6.0dB"/>
+            <sample end="539136.000" hiNote="49" hiVel="127" loNote="47" loVel="1" path="filter sine Samples/Filter Sine (long)-48-127.wav" pitchKeyTrack="1.0000" rootNote="48" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="538112.000" hiNote="43" hiVel="127" loNote="41" loVel="1" path="filter sine Samples/Filter Sine (long)-42-127.wav" pitchKeyTrack="1.0000" rootNote="42" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="543232.000" hiNote="46" hiVel="127" loNote="44" loVel="1" path="filter sine Samples/Filter Sine (long)-45-127.wav" pitchKeyTrack="1.0000" rootNote="45" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="540672.000" hiNote="40" hiVel="127" loNote="38" loVel="1" path="filter sine Samples/Filter Sine (long)-39-127.wav" pitchKeyTrack="1.0000" rootNote="39" start="0.000" tuning="-0.00" volume="6.0dB"/>
+        </group>
+    </groups>
+    <effects>
+        <effect frequency="22000" resonance="0.5" type="lowpass_4pl"/>
+        <effect type="reverb"/>
+    </effects>
+</DecentSampler>

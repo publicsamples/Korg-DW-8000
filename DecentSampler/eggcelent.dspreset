@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DecentSampler>
+    <ui>
+        <tab name="main">
+            <labeled-knob label="Filter Cutoff" maxValue="22000" minValue="0" textColor="FF000000" type="float" value="22000.0" x="0" y="0">
+                <binding level="instrument" parameter="FX_FILTER_FREQUENCY" position="0" translation="linear" translationOutputMax="3000" translationOutputMin="0.0" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Filter Resonance" maxValue="1" minValue="0" textColor="FF000000" type="float" value="0.5" x="100" y="0">
+                <binding level="instrument" parameter="FX_FILTER_RESONANCE" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.11" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Reverb Wet Level" maxValue="1000" minValue="0" textColor="FF000000" type="float" value="0.0" x="200" y="0">
+                <binding level="instrument" parameter="FX_REVERB_WET_LEVEL" position="1" translation="linear" translationOutputMax="1" translationOutputMin="0.0" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Reverb Room Size" maxValue="1000" minValue="0" textColor="FF000000" type="float" value="0.0" x="300" y="0">
+                <binding level="instrument" parameter="FX_REVERB_ROOM_SIZE" position="1" translation="linear" translationOutputMax="1" translationOutputMin="0.0" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Attack" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="0.0" x="0" y="100">
+                <binding level="instrument" parameter="ENV_ATTACK" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+            <labeled-knob label="Decay" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="0.0" x="100" y="100">
+                <binding level="instrument" parameter="ENV_DECAY" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+            <labeled-knob label="Sustain" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="2000.0" x="200" y="100">
+                <binding level="instrument" parameter="ENV_SUSTAIN" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+            <labeled-knob label="Release" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="400.0" x="300" y="100">
+                <binding level="instrument" parameter="ENV_RELEASE" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+        </tab>
+    </ui>
+    <groups>
+        <group>
+            <sample end="233472.000" hiNote="43" hiVel="127" loNote="43" loVel="1" path="eggcelent Samples/02 - Eggcellent-107-127.wav" pitchKeyTrack="1.0000" rootNote="43" start="0.000" volume="6.0dB"/>
+            <sample end="227840.000" hiNote="57" hiVel="127" loNote="57" loVel="1" path="eggcelent Samples/02 - Eggcellent-48-127.wav" pitchKeyTrack="1.0000" rootNote="57" start="0.000" volume="6.0dB"/>
+            <sample end="232448.000" hiNote="71" hiVel="127" loNote="71" loVel="1" path="eggcelent Samples/02 - Eggcellent-62-127.wav" pitchKeyTrack="1.0000" rootNote="71" start="0.000" volume="6.0dB"/>
+            <sample end="229888.000" hiNote="55" hiVel="127" loNote="55" loVel="1" path="eggcelent Samples/02 - Eggcellent-46-127.wav" pitchKeyTrack="1.0000" rootNote="55" start="0.000" volume="6.0dB"/>
+            <sample end="229888.000" hiNote="38" hiVel="127" loNote="38" loVel="1" path="eggcelent Samples/02 - Eggcellent-102-127.wav" pitchKeyTrack="1.0000" rootNote="38" start="0.000" volume="6.0dB"/>
+            <sample end="227328.000" hiNote="89" hiVel="127" loNote="89" loVel="1" path="eggcelent Samples/02 - Eggcellent-80-127.wav" pitchKeyTrack="1.0000" rootNote="89" start="0.000" volume="6.0dB"/>
+            <sample end="228864.000" hiNote="61" hiVel="127" loNote="61" loVel="1" path="eggcelent Samples/02 - Eggcellent-52-127.wav" pitchKeyTrack="1.0000" rootNote="61" start="0.000" volume="6.0dB"/>
+            <sample end="230912.000" hiNote="48" hiVel="127" loNote="48" loVel="1" path="eggcelent Samples/02 - Eggcellent-39-127.wav" pitchKeyTrack="1.0000" rootNote="48" start="0.000" volume="6.0dB"/>
+            <sample end="229376.000" hiNote="74" hiVel="127" loNote="74" loVel="1" path="eggcelent Samples/02 - Eggcellent-65-127.wav" pitchKeyTrack="1.0000" rootNote="74" start="0.000" volume="6.0dB"/>
+            <sample end="227840.000" hiNote="50" hiVel="127" loNote="50" loVel="1" path="eggcelent Samples/02 - Eggcellent-41-127.wav" pitchKeyTrack="1.0000" rootNote="50" start="0.000" volume="6.0dB"/>
+            <sample end="224768.000" hiNote="73" hiVel="127" loNote="73" loVel="1" path="eggcelent Samples/02 - Eggcellent-64-127.wav" pitchKeyTrack="1.0000" rootNote="73" start="0.000" volume="6.0dB"/>
+            <sample end="230400.000" hiNote="87" hiVel="127" loNote="87" loVel="1" path="eggcelent Samples/02 - Eggcellent-78-127.wav" pitchKeyTrack="1.0000" rootNote="87" start="0.000" volume="6.0dB"/>
+            <sample end="230912.000" hiNote="47" hiVel="127" loNote="47" loVel="1" path="eggcelent Samples/02 - Eggcellent-38-127.wav" pitchKeyTrack="1.0000" rootNote="47" start="0.000" volume="6.0dB"/>
+            <sample end="227328.000" hiNote="51" hiVel="127" loNote="51" loVel="1" path="eggcelent Samples/02 - Eggcellent-42-127.wav" pitchKeyTrack="1.0000" rootNote="51" start="0.000" volume="6.0dB"/>
+            <sample end="226304.000" hiNote="42" hiVel="127" loNote="42" loVel="1" path="eggcelent Samples/02 - Eggcellent-106-127.wav" pitchKeyTrack="1.0000" rootNote="42" start="0.000" volume="6.0dB"/>
+            <sample end="226304.000" hiNote="49" hiVel="127" loNote="49" loVel="1" path="eggcelent Samples/02 - Eggcellent-40-127.wav" pitchKeyTrack="1.0000" rootNote="49" start="0.000" volume="6.0dB"/>
+            <sample end="227840.000" hiNote="53" hiVel="127" loNote="53" loVel="1" path="eggcelent Samples/02 - Eggcellent-44-127.wav" pitchKeyTrack="1.0000" rootNote="53" start="0.000" volume="6.0dB"/>
+            <sample end="228864.000" hiNote="98" hiVel="127" loNote="98" loVel="1" path="eggcelent Samples/02 - Eggcellent-89-127.wav" pitchKeyTrack="1.0000" rootNote="98" start="0.000" volume="6.0dB"/>
+            <sample end="229888.000" hiNote="103" hiVel="127" loNote="103" loVel="1" path="eggcelent Samples/02 - Eggcellent-94-127.wav" pitchKeyTrack="1.0000" rootNote="103" start="0.000" volume="6.0dB"/>
+            <sample end="229888.000" hiNote="54" hiVel="127" loNote="54" loVel="1" path="eggcelent Samples/02 - Eggcellent-45-127.wav" pitchKeyTrack="1.0000" rootNote="54" start="0.000" volume="6.0dB"/>
+            <sample end="228352.000" hiNote="59" hiVel="127" loNote="59" loVel="1" path="eggcelent Samples/02 - Eggcellent-50-127.wav" pitchKeyTrack="1.0000" rootNote="59" start="0.000" volume="6.0dB"/>
+            <sample end="229888.000" hiNote="37" hiVel="127" loNote="37" loVel="1" path="eggcelent Samples/02 - Eggcellent-101-127.wav" pitchKeyTrack="1.0000" rootNote="37" start="0.000" volume="6.0dB"/>
+            <sample end="227328.000" hiNote="90" hiVel="127" loNote="90" loVel="1" path="eggcelent Samples/02 - Eggcellent-81-127.wav" pitchKeyTrack="1.0000" rootNote="90" start="0.000" volume="6.0dB"/>
+            <sample end="230912.000" hiNote="95" hiVel="127" loNote="95" loVel="1" path="eggcelent Samples/02 - Eggcellent-86-127.wav" pitchKeyTrack="1.0000" rootNote="95" start="0.000" volume="6.0dB"/>
+            <sample end="228352.000" hiNote="75" hiVel="127" loNote="75" loVel="1" path="eggcelent Samples/02 - Eggcellent-66-127.wav" pitchKeyTrack="1.0000" rootNote="75" start="0.000" volume="6.0dB"/>
+            <sample end="230400.000" hiNote="72" hiVel="127" loNote="72" loVel="1" path="eggcelent Samples/02 - Eggcellent-63-127.wav" pitchKeyTrack="1.0000" rootNote="72" start="0.000" volume="6.0dB"/>
+            <sample end="230912.000" hiNote="60" hiVel="127" loNote="60" loVel="1" path="eggcelent Samples/02 - Eggcellent-51-127.wav" pitchKeyTrack="1.0000" rootNote="60" start="0.000" volume="6.0dB"/>
+            <sample end="228352.000" hiNote="45" hiVel="127" loNote="45" loVel="1" path="eggcelent Samples/02 - Eggcellent-36-127.wav" pitchKeyTrack="1.0000" rootNote="45" start="0.000" volume="6.0dB"/>
+            <sample end="227840.000" hiNote="67" hiVel="127" loNote="67" loVel="1" path="eggcelent Samples/02 - Eggcellent-58-127.wav" pitchKeyTrack="1.0000" rootNote="67" start="0.000" volume="6.0dB"/>
+            <sample end="227328.000" hiNote="82" hiVel="127" loNote="82" loVel="1" path="eggcelent Samples/02 - Eggcellent-73-127.wav" pitchKeyTrack="1.0000" rootNote="82" start="0.000" volume="6.0dB"/>
+            <sample end="231424.000" hiNote="104" hiVel="127" loNote="104" loVel="1" path="eggcelent Samples/02 - Eggcellent-95-127.wav" pitchKeyTrack="1.0000" rootNote="104" start="0.000" volume="6.0dB"/>
+            <sample end="227328.000" hiNote="107" hiVel="127" loNote="107" loVel="1" path="eggcelent Samples/02 - Eggcellent-98-127.wav" pitchKeyTrack="1.0000" rootNote="107" start="0.000" volume="6.0dB"/>
+            <sample end="228352.000" hiNote="69" hiVel="127" loNote="69" loVel="1" path="eggcelent Samples/02 - Eggcellent-60-127.wav" pitchKeyTrack="1.0000" rootNote="69" start="0.000" volume="6.0dB"/>
+            <sample end="233984.000" hiNote="127" hiVel="127" loNote="108" loVel="1" path="eggcelent Samples/02 - Eggcellent-99-127.wav" pitchKeyTrack="1.0000" rootNote="108" start="0.000" volume="6.0dB"/>
+            <sample end="226304.000" hiNote="65" hiVel="127" loNote="65" loVel="1" path="eggcelent Samples/02 - Eggcellent-56-127.wav" pitchKeyTrack="1.0000" rootNote="65" start="0.000" volume="6.0dB"/>
+            <sample end="229888.000" hiNote="86" hiVel="127" loNote="86" loVel="1" path="eggcelent Samples/02 - Eggcellent-77-127.wav" pitchKeyTrack="1.0000" rootNote="86" start="0.000" volume="6.0dB"/>
+            <sample end="230400.000" hiNote="80" hiVel="127" loNote="80" loVel="1" path="eggcelent Samples/02 - Eggcellent-71-127.wav" pitchKeyTrack="1.0000" rootNote="80" start="0.000" volume="6.0dB"/>
+            <sample end="228352.000" hiNote="44" hiVel="127" loNote="44" loVel="1" path="eggcelent Samples/02 - Eggcellent-108-127.wav" pitchKeyTrack="1.0000" rootNote="44" start="0.000" volume="6.0dB"/>
+            <sample end="234496.000" hiNote="76" hiVel="127" loNote="76" loVel="1" path="eggcelent Samples/02 - Eggcellent-67-127.wav" pitchKeyTrack="1.0000" rootNote="76" start="0.000" volume="6.0dB"/>
+            <sample end="229888.000" hiNote="64" hiVel="127" loNote="64" loVel="1" path="eggcelent Samples/02 - Eggcellent-55-127.wav" pitchKeyTrack="1.0000" rootNote="64" start="0.000" volume="6.0dB"/>
+            <sample end="228352.000" hiNote="94" hiVel="127" loNote="94" loVel="1" path="eggcelent Samples/02 - Eggcellent-85-127.wav" pitchKeyTrack="1.0000" rootNote="94" start="0.000" volume="6.0dB"/>
+            <sample end="225280.000" hiNote="97" hiVel="127" loNote="97" loVel="1" path="eggcelent Samples/02 - Eggcellent-88-127.wav" pitchKeyTrack="1.0000" rootNote="97" start="0.000" volume="6.0dB"/>
+            <sample end="231424.000" hiNote="92" hiVel="127" loNote="92" loVel="1" path="eggcelent Samples/02 - Eggcellent-83-127.wav" pitchKeyTrack="1.0000" rootNote="92" start="0.000" volume="6.0dB"/>
+            <sample end="228864.000" hiNote="99" hiVel="127" loNote="99" loVel="1" path="eggcelent Samples/02 - Eggcellent-90-127.wav" pitchKeyTrack="1.0000" rootNote="99" start="0.000" volume="6.0dB"/>
+            <sample end="230912.000" hiNote="100" hiVel="127" loNote="100" loVel="1" path="eggcelent Samples/02 - Eggcellent-91-127.wav" pitchKeyTrack="1.0000" rootNote="100" start="0.000" volume="6.0dB"/>
+            <sample end="227328.000" hiNote="36" hiVel="127" loNote="0" loVel="1" path="eggcelent Samples/02 - Eggcellent-100-127.wav" pitchKeyTrack="1.0000" rootNote="36" start="0.000" volume="6.0dB"/>
+            <sample end="228352.000" hiNote="66" hiVel="127" loNote="66" loVel="1" path="eggcelent Samples/02 - Eggcellent-57-127.wav" pitchKeyTrack="1.0000" rootNote="66" start="0.000" volume="6.0dB"/>
+            <sample end="228352.000" hiNote="101" hiVel="127" loNote="101" loVel="1" path="eggcelent Samples/02 - Eggcellent-92-127.wav" pitchKeyTrack="1.0000" rootNote="101" start="0.000" volume="6.0dB"/>
+            <sample end="226816.000" hiNote="105" hiVel="127" loNote="105" loVel="1" path="eggcelent Samples/02 - Eggcellent-96-127.wav" pitchKeyTrack="1.0000" rootNote="105" start="0.000" volume="6.0dB"/>
+            <sample end="229376.000" hiNote="56" hiVel="127" loNote="56" loVel="1" path="eggcelent Samples/02 - Eggcellent-47-127.wav" pitchKeyTrack="1.0000" rootNote="56" start="0.000" volume="6.0dB"/>
+            <sample end="233472.000" hiNote="68" hiVel="127" loNote="68" loVel="1" path="eggcelent Samples/02 - Eggcellent-59-127.wav" pitchKeyTrack="1.0000" rootNote="68" start="0.000" volume="6.0dB"/>
+            <sample end="230912.000" hiNote="39" hiVel="127" loNote="39" loVel="1" path="eggcelent Samples/02 - Eggcellent-103-127.wav" pitchKeyTrack="1.0000" rootNote="39" start="0.000" volume="6.0dB"/>
+            <sample end="230912.000" hiNote="84" hiVel="127" loNote="84" loVel="1" path="eggcelent Samples/02 - Eggcellent-75-127.wav" pitchKeyTrack="1.0000" rootNote="84" start="0.000" volume="6.0dB"/>
+            <sample end="230912.000" hiNote="88" hiVel="127" loNote="88" loVel="1" path="eggcelent Samples/02 - Eggcellent-79-127.wav" pitchKeyTrack="1.0000" rootNote="88" start="0.000" volume="6.0dB"/>
+            <sample end="230400.000" hiNote="46" hiVel="127" loNote="46" loVel="1" path="eggcelent Samples/02 - Eggcellent-37-127.wav" pitchKeyTrack="1.0000" rootNote="46" start="0.000" volume="6.0dB"/>
+            <sample end="228352.000" hiNote="93" hiVel="127" loNote="93" loVel="1" path="eggcelent Samples/02 - Eggcellent-84-127.wav" pitchKeyTrack="1.0000" rootNote="93" start="0.000" volume="6.0dB"/>
+            <sample end="228864.000" hiNote="77" hiVel="127" loNote="77" loVel="1" path="eggcelent Samples/02 - Eggcellent-68-127.wav" pitchKeyTrack="1.0000" rootNote="77" start="0.000" volume="6.0dB"/>
+            <sample end="230400.000" hiNote="63" hiVel="127" loNote="63" loVel="1" path="eggcelent Samples/02 - Eggcellent-54-127.wav" pitchKeyTrack="1.0000" rootNote="63" start="0.000" volume="6.0dB"/>
+            <sample end="231936.000" hiNote="78" hiVel="127" loNote="78" loVel="1" path="eggcelent Samples/02 - Eggcellent-69-127.wav" pitchKeyTrack="1.0000" rootNote="78" start="0.000" volume="6.0dB"/>
+            <sample end="230400.000" hiNote="96" hiVel="127" loNote="96" loVel="1" path="eggcelent Samples/02 - Eggcellent-87-127.wav" pitchKeyTrack="1.0000" rootNote="96" start="0.000" volume="6.0dB"/>
+            <sample end="230400.000" hiNote="79" hiVel="127" loNote="79" loVel="1" path="eggcelent Samples/02 - Eggcellent-70-127.wav" pitchKeyTrack="1.0000" rootNote="79" start="0.000" volume="6.0dB"/>
+            <sample end="227840.000" hiNote="85" hiVel="127" loNote="85" loVel="1" path="eggcelent Samples/02 - Eggcellent-76-127.wav" pitchKeyTrack="1.0000" rootNote="85" start="0.000" volume="6.0dB"/>
+            <sample end="228352.000" hiNote="83" hiVel="127" loNote="83" loVel="1" path="eggcelent Samples/02 - Eggcellent-74-127.wav" pitchKeyTrack="1.0000" rootNote="83" start="0.000" volume="6.0dB"/>
+            <sample end="228352.000" hiNote="70" hiVel="127" loNote="70" loVel="1" path="eggcelent Samples/02 - Eggcellent-61-127.wav" pitchKeyTrack="1.0000" rootNote="70" start="0.000" volume="6.0dB"/>
+            <sample end="225280.000" hiNote="81" hiVel="127" loNote="81" loVel="1" path="eggcelent Samples/02 - Eggcellent-72-127.wav" pitchKeyTrack="1.0000" rootNote="81" start="0.000" volume="6.0dB"/>
+            <sample end="228352.000" hiNote="41" hiVel="127" loNote="41" loVel="1" path="eggcelent Samples/02 - Eggcellent-105-127.wav" pitchKeyTrack="1.0000" rootNote="41" start="0.000" volume="6.0dB"/>
+            <sample end="228352.000" hiNote="106" hiVel="127" loNote="106" loVel="1" path="eggcelent Samples/02 - Eggcellent-97-127.wav" pitchKeyTrack="1.0000" rootNote="106" start="0.000" volume="6.0dB"/>
+            <sample end="228352.000" hiNote="58" hiVel="127" loNote="58" loVel="1" path="eggcelent Samples/02 - Eggcellent-49-127.wav" pitchKeyTrack="1.0000" rootNote="58" start="0.000" volume="6.0dB"/>
+            <sample end="230400.000" hiNote="52" hiVel="127" loNote="52" loVel="1" path="eggcelent Samples/02 - Eggcellent-43-127.wav" pitchKeyTrack="1.0000" rootNote="52" start="0.000" volume="6.0dB"/>
+            <sample end="230400.000" hiNote="62" hiVel="127" loNote="62" loVel="1" path="eggcelent Samples/02 - Eggcellent-53-127.wav" pitchKeyTrack="1.0000" rootNote="62" start="0.000" volume="6.0dB"/>
+            <sample end="228352.000" hiNote="91" hiVel="127" loNote="91" loVel="1" path="eggcelent Samples/02 - Eggcellent-82-127.wav" pitchKeyTrack="1.0000" rootNote="91" start="0.000" volume="6.0dB"/>
+            <sample end="224768.000" hiNote="40" hiVel="127" loNote="40" loVel="1" path="eggcelent Samples/02 - Eggcellent-104-127.wav" pitchKeyTrack="1.0000" rootNote="40" start="0.000" volume="6.0dB"/>
+            <sample end="230912.000" hiNote="102" hiVel="127" loNote="102" loVel="1" path="eggcelent Samples/02 - Eggcellent-93-127.wav" pitchKeyTrack="1.0000" rootNote="102" start="0.000" volume="6.0dB"/>
+        </group>
+    </groups>
+    <effects>
+        <effect frequency="22000" resonance="0.5" type="lowpass_4pl"/>
+        <effect type="reverb"/>
+    </effects>
+</DecentSampler>

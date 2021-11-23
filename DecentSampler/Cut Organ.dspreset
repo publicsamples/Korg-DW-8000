@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DecentSampler>
+    <ui>
+        <tab name="main">
+            <labeled-knob label="Filter Cutoff" maxValue="22000" minValue="0" textColor="FF000000" type="float" value="22000.0" x="0" y="0">
+                <binding level="instrument" parameter="FX_FILTER_FREQUENCY" position="0" translation="linear" translationOutputMax="3000" translationOutputMin="0.0" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Filter Resonance" maxValue="1" minValue="0" textColor="FF000000" type="float" value="0.5" x="100" y="0">
+                <binding level="instrument" parameter="FX_FILTER_RESONANCE" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.11" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Reverb Wet Level" maxValue="1000" minValue="0" textColor="FF000000" type="float" value="0.0" x="200" y="0">
+                <binding level="instrument" parameter="FX_REVERB_WET_LEVEL" position="1" translation="linear" translationOutputMax="1" translationOutputMin="0.0" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Reverb Room Size" maxValue="1000" minValue="0" textColor="FF000000" type="float" value="0.0" x="300" y="0">
+                <binding level="instrument" parameter="FX_REVERB_ROOM_SIZE" position="1" translation="linear" translationOutputMax="1" translationOutputMin="0.0" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Attack" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="0.0" x="0" y="100">
+                <binding level="instrument" parameter="ENV_ATTACK" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+            <labeled-knob label="Decay" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="0.0" x="100" y="100">
+                <binding level="instrument" parameter="ENV_DECAY" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+            <labeled-knob label="Sustain" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="2000.0" x="200" y="100">
+                <binding level="instrument" parameter="ENV_SUSTAIN" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+            <labeled-knob label="Release" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="400.0" x="300" y="100">
+                <binding level="instrument" parameter="ENV_RELEASE" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+        </tab>
+    </ui>
+    <groups>
+        <group>
+            <sample end="252928.000" hiNote="34" hiVel="127" loNote="34" loVel="1" path="Cut Organ Samples/Cut organ-46-127.wav" pitchKeyTrack="1.0000" rootNote="34" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="259584.000" hiNote="49" hiVel="127" loNote="49" loVel="1" path="Cut Organ Samples/Cut organ-61-127.wav" pitchKeyTrack="1.0000" rootNote="49" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="241152.000" hiNote="54" hiVel="127" loNote="54" loVel="1" path="Cut Organ Samples/Cut organ-66-127.wav" pitchKeyTrack="1.0000" rootNote="54" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="242688.000" hiNote="45" hiVel="127" loNote="45" loVel="1" path="Cut Organ Samples/Cut organ-57-127.wav" pitchKeyTrack="1.0000" rootNote="45" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="253952.000" hiNote="24" hiVel="127" loNote="0" loVel="1" path="Cut Organ Samples/Cut organ-36-127.wav" pitchKeyTrack="1.0000" rootNote="24" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="254464.000" hiNote="39" hiVel="127" loNote="39" loVel="1" path="Cut Organ Samples/Cut organ-51-127.wav" pitchKeyTrack="1.0000" rootNote="39" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="254976.000" hiNote="40" hiVel="127" loNote="40" loVel="1" path="Cut Organ Samples/Cut organ-52-127.wav" pitchKeyTrack="1.0000" rootNote="40" start="0.000" tuning="0.00" volume="6.0dB"/>
+            <sample end="251904.000" hiNote="28" hiVel="127" loNote="28" loVel="1" path="Cut Organ Samples/Cut organ-40-127.wav" pitchKeyTrack="1.0000" rootNote="28" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="261120.000" hiNote="41" hiVel="127" loNote="41" loVel="1" path="Cut Organ Samples/Cut organ-53-127.wav" pitchKeyTrack="1.0000" rootNote="41" start="0.000" volume="6.0dB"/>
+            <sample end="241152.000" hiNote="68" hiVel="127" loNote="68" loVel="1" path="Cut Organ Samples/Cut organ-80-127.wav" pitchKeyTrack="1.0000" rootNote="68" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="256512.000" hiNote="50" hiVel="127" loNote="50" loVel="1" path="Cut Organ Samples/Cut organ-62-127.wav" pitchKeyTrack="1.0000" rootNote="50" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="260608.000" hiNote="25" hiVel="127" loNote="25" loVel="1" path="Cut Organ Samples/Cut organ-37-127.wav" pitchKeyTrack="1.0000" rootNote="25" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="252416.000" hiNote="48" hiVel="127" loNote="48" loVel="1" path="Cut Organ Samples/Cut organ-60-127.wav" pitchKeyTrack="1.0000" rootNote="48" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="254464.000" hiNote="47" hiVel="127" loNote="47" loVel="1" path="Cut Organ Samples/Cut organ-59-127.wav" pitchKeyTrack="1.0000" rootNote="47" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="241664.000" hiNote="52" hiVel="127" loNote="52" loVel="1" path="Cut Organ Samples/Cut organ-64-127.wav" pitchKeyTrack="1.0000" rootNote="52" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="257536.000" hiNote="26" hiVel="127" loNote="26" loVel="1" path="Cut Organ Samples/Cut organ-38-127.wav" pitchKeyTrack="1.0000" rootNote="26" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="248832.000" hiNote="27" hiVel="127" loNote="27" loVel="1" path="Cut Organ Samples/Cut organ-39-127.wav" pitchKeyTrack="1.0000" rootNote="27" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="260608.000" hiNote="33" hiVel="127" loNote="33" loVel="1" path="Cut Organ Samples/Cut organ-45-127.wav" pitchKeyTrack="1.0000" rootNote="33" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="241152.000" hiNote="53" hiVel="127" loNote="53" loVel="1" path="Cut Organ Samples/Cut organ-65-127.wav" pitchKeyTrack="1.0000" rootNote="53" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="241664.000" hiNote="62" hiVel="127" loNote="62" loVel="1" path="Cut Organ Samples/Cut organ-74-127.wav" pitchKeyTrack="1.0000" rootNote="62" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="252928.000" hiNote="32" hiVel="127" loNote="32" loVel="1" path="Cut Organ Samples/Cut organ-44-127.wav" pitchKeyTrack="1.0000" rootNote="32" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="254976.000" hiNote="29" hiVel="127" loNote="29" loVel="1" path="Cut Organ Samples/Cut organ-41-127.wav" pitchKeyTrack="1.0000" rootNote="29" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="247296.000" hiNote="38" hiVel="127" loNote="38" loVel="1" path="Cut Organ Samples/Cut organ-50-127.wav" pitchKeyTrack="1.0000" rootNote="38" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="239616.000" hiNote="67" hiVel="127" loNote="67" loVel="1" path="Cut Organ Samples/Cut organ-79-127.wav" pitchKeyTrack="1.0000" rootNote="67" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="249856.000" hiNote="44" hiVel="127" loNote="44" loVel="1" path="Cut Organ Samples/Cut organ-56-127.wav" pitchKeyTrack="1.0000" rootNote="44" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="244736.000" hiNote="37" hiVel="127" loNote="37" loVel="1" path="Cut Organ Samples/Cut organ-49-127.wav" pitchKeyTrack="1.0000" rootNote="37" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="241664.000" hiNote="46" hiVel="127" loNote="46" loVel="1" path="Cut Organ Samples/Cut organ-58-127.wav" pitchKeyTrack="1.0000" rootNote="46" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="241152.000" hiNote="51" hiVel="127" loNote="51" loVel="1" path="Cut Organ Samples/Cut organ-63-127.wav" pitchKeyTrack="1.0000" rootNote="51" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="250880.000" hiNote="30" hiVel="127" loNote="30" loVel="1" path="Cut Organ Samples/Cut organ-42-127.wav" pitchKeyTrack="1.0000" rootNote="30" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="253440.000" hiNote="31" hiVel="127" loNote="31" loVel="1" path="Cut Organ Samples/Cut organ-43-127.wav" pitchKeyTrack="1.0000" rootNote="31" start="0.000" tuning="0.00" volume="6.0dB"/>
+            <sample end="241664.000" hiNote="127" hiVel="127" loNote="69" loVel="1" path="Cut Organ Samples/Cut organ-81-127.wav" pitchKeyTrack="1.0000" rootNote="69" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="252928.000" hiNote="56" hiVel="127" loNote="56" loVel="1" path="Cut Organ Samples/Cut organ-68-127.wav" pitchKeyTrack="1.0000" rootNote="56" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="260608.000" hiNote="57" hiVel="127" loNote="57" loVel="1" path="Cut Organ Samples/Cut organ-69-127.wav" pitchKeyTrack="1.0000" rootNote="57" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="256000.000" hiNote="66" hiVel="127" loNote="66" loVel="1" path="Cut Organ Samples/Cut organ-78-127.wav" pitchKeyTrack="1.0000" rootNote="66" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="252928.000" hiNote="42" hiVel="127" loNote="42" loVel="1" path="Cut Organ Samples/Cut organ-54-127.wav" pitchKeyTrack="1.0000" rootNote="42" start="0.000" tuning="0.00" volume="6.0dB"/>
+            <sample end="244224.000" hiNote="59" hiVel="127" loNote="59" loVel="1" path="Cut Organ Samples/Cut organ-71-127.wav" pitchKeyTrack="1.0000" rootNote="59" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="261632.000" hiNote="65" hiVel="127" loNote="65" loVel="1" path="Cut Organ Samples/Cut organ-77-127.wav" pitchKeyTrack="1.0000" rootNote="65" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="254976.000" hiNote="58" hiVel="127" loNote="58" loVel="1" path="Cut Organ Samples/Cut organ-70-127.wav" pitchKeyTrack="1.0000" rootNote="58" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="253952.000" hiNote="55" hiVel="127" loNote="55" loVel="1" path="Cut Organ Samples/Cut organ-67-127.wav" pitchKeyTrack="1.0000" rootNote="55" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="243200.000" hiNote="43" hiVel="127" loNote="43" loVel="1" path="Cut Organ Samples/Cut organ-55-127.wav" pitchKeyTrack="1.0000" rootNote="43" start="0.000" tuning="0.00" volume="6.0dB"/>
+            <sample end="238592.000" hiNote="61" hiVel="127" loNote="61" loVel="1" path="Cut Organ Samples/Cut organ-73-127.wav" pitchKeyTrack="1.0000" rootNote="61" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="254464.000" hiNote="64" hiVel="127" loNote="64" loVel="1" path="Cut Organ Samples/Cut organ-76-127.wav" pitchKeyTrack="1.0000" rootNote="64" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="250880.000" hiNote="35" hiVel="127" loNote="35" loVel="1" path="Cut Organ Samples/Cut organ-47-127.wav" pitchKeyTrack="1.0000" rootNote="35" start="0.000" volume="6.0dB"/>
+            <sample end="250368.000" hiNote="36" hiVel="127" loNote="36" loVel="1" path="Cut Organ Samples/Cut organ-48-127.wav" pitchKeyTrack="1.0000" rootNote="36" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="252416.000" hiNote="63" hiVel="127" loNote="63" loVel="1" path="Cut Organ Samples/Cut organ-75-127.wav" pitchKeyTrack="1.0000" rootNote="63" start="0.000" tuning="-0.00" volume="6.0dB"/>
+            <sample end="245248.000" hiNote="60" hiVel="127" loNote="60" loVel="1" path="Cut Organ Samples/Cut organ-72-127.wav" pitchKeyTrack="1.0000" rootNote="60" start="0.000" tuning="-0.00" volume="6.0dB"/>
+        </group>
+        <group>
+            <sample end="248320.000" hiNote="27" hiVel="127" loNote="26" loVel="1" path="Cut Organ Samples/Cut organ-94-127.wav" pitchKeyTrack="1.0000" rootNote="26" start="0.000" volume="6.0dB"/>
+            <sample end="245248.000" hiNote="31" hiVel="127" loNote="30" loVel="1" path="Cut Organ Samples/Cut organ-96-127.wav" pitchKeyTrack="1.0000" rootNote="30" start="0.000" volume="6.0dB"/>
+            <sample end="260096.000" hiNote="9" hiVel="127" loNote="8" loVel="1" path="Cut Organ Samples/Cut organ-85-127.wav" pitchKeyTrack="1.0000" rootNote="8" start="0.000" volume="6.0dB"/>
+            <sample end="262144.000" hiNote="25" hiVel="127" loNote="24" loVel="1" path="Cut Organ Samples/Cut organ-93-127.wav" pitchKeyTrack="1.0000" rootNote="24" start="0.000" volume="6.0dB"/>
+            <sample end="241152.000" hiNote="29" hiVel="127" loNote="28" loVel="1" path="Cut Organ Samples/Cut organ-95-127.wav" pitchKeyTrack="1.0000" rootNote="28" start="0.000" volume="6.0dB"/>
+            <sample end="256512.000" hiNote="11" hiVel="127" loNote="10" loVel="1" path="Cut Organ Samples/Cut organ-86-127.wav" pitchKeyTrack="1.0000" rootNote="10" start="0.000" volume="6.0dB"/>
+            <sample end="251904.000" hiNote="5" hiVel="127" loNote="4" loVel="1" path="Cut Organ Samples/Cut organ-83-127.wav" pitchKeyTrack="1.0000" rootNote="4" start="0.000" volume="6.0dB"/>
+            <sample end="241152.000" hiNote="17" hiVel="127" loNote="16" loVel="1" path="Cut Organ Samples/Cut organ-89-127.wav" pitchKeyTrack="1.0000" rootNote="16" start="0.000" volume="6.0dB"/>
+            <sample end="256512.000" hiNote="7" hiVel="127" loNote="6" loVel="1" path="Cut Organ Samples/Cut organ-84-127.wav" pitchKeyTrack="1.0000" rootNote="6" start="0.000" volume="6.0dB"/>
+            <sample end="241152.000" hiNote="13" hiVel="127" loNote="12" loVel="1" path="Cut Organ Samples/Cut organ-87-127.wav" pitchKeyTrack="1.0000" rootNote="12" start="0.000" volume="6.0dB"/>
+            <sample end="252416.000" hiNote="21" hiVel="127" loNote="20" loVel="1" path="Cut Organ Samples/Cut organ-91-127.wav" pitchKeyTrack="1.0000" rootNote="20" start="0.000" volume="6.0dB"/>
+            <sample end="240128.000" hiNote="3" hiVel="127" loNote="2" loVel="1" path="Cut Organ Samples/Cut organ-82-127.wav" pitchKeyTrack="1.0000" rootNote="2" start="0.000" volume="6.0dB"/>
+            <sample end="241152.000" hiNote="19" hiVel="127" loNote="18" loVel="1" path="Cut Organ Samples/Cut organ-90-127.wav" pitchKeyTrack="1.0000" rootNote="18" start="0.000" volume="6.0dB"/>
+            <sample end="248320.000" hiNote="15" hiVel="127" loNote="14" loVel="1" path="Cut Organ Samples/Cut organ-88-127.wav" pitchKeyTrack="1.0000" rootNote="14" start="0.000" volume="6.0dB"/>
+            <sample end="254464.000" hiNote="23" hiVel="127" loNote="22" loVel="1" path="Cut Organ Samples/Cut organ-92-127.wav" pitchKeyTrack="1.0000" rootNote="22" start="0.000" volume="6.0dB"/>
+        </group>
+    </groups>
+    <effects>
+        <effect frequency="22000" resonance="0.5" type="lowpass_4pl"/>
+        <effect type="reverb"/>
+    </effects>
+</DecentSampler>

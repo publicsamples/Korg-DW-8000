@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DecentSampler>
+    <ui>
+        <tab name="main">
+            <labeled-knob label="Filter Cutoff" maxValue="22000" minValue="0" textColor="FF000000" type="float" value="22000.0" x="0" y="0">
+                <binding level="instrument" parameter="FX_FILTER_FREQUENCY" position="0" translation="linear" translationOutputMax="3000" translationOutputMin="0.0" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Filter Resonance" maxValue="1" minValue="0" textColor="FF000000" type="float" value="0.5" x="100" y="0">
+                <binding level="instrument" parameter="FX_FILTER_RESONANCE" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.11" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Reverb Wet Level" maxValue="1000" minValue="0" textColor="FF000000" type="float" value="0.0" x="200" y="0">
+                <binding level="instrument" parameter="FX_REVERB_WET_LEVEL" position="1" translation="linear" translationOutputMax="1" translationOutputMin="0.0" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Reverb Room Size" maxValue="1000" minValue="0" textColor="FF000000" type="float" value="0.0" x="300" y="0">
+                <binding level="instrument" parameter="FX_REVERB_ROOM_SIZE" position="1" translation="linear" translationOutputMax="1" translationOutputMin="0.0" type="effect"/>
+            </labeled-knob>
+            <labeled-knob label="Attack" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="0.0" x="0" y="100">
+                <binding level="instrument" parameter="ENV_ATTACK" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+            <labeled-knob label="Decay" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="0.0" x="100" y="100">
+                <binding level="instrument" parameter="ENV_DECAY" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+            <labeled-knob label="Sustain" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="2000.0" x="200" y="100">
+                <binding level="instrument" parameter="ENV_SUSTAIN" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+            <labeled-knob label="Release" maxValue="2000" minValue="0" textColor="FF000000" type="float" value="400.0" x="300" y="100">
+                <binding level="instrument" parameter="ENV_RELEASE" position="0" translation="linear" translationOutputMax="2" translationOutputMin="0.0" type="amp"/>
+            </labeled-knob>
+        </tab>
+    </ui>
+    <groups>
+        <group>
+            <sample end="25600.000" hiNote="82" hiVel="127" loNote="82" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-82-127.wav" pitchKeyTrack="1.0000" rootNote="82" start="774.000" volume="6.0dB"/>
+            <sample end="26624.000" hiNote="103" hiVel="127" loNote="103" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-103-127.wav" pitchKeyTrack="1.0000" rootNote="103" start="774.000" volume="6.0dB"/>
+            <sample end="21504.000" hiNote="52" hiVel="127" loNote="52" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-52-127.wav" pitchKeyTrack="1.0000" rootNote="52" start="774.000" volume="6.0dB"/>
+            <sample end="21504.000" hiNote="48" hiVel="127" loNote="48" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-48-127.wav" pitchKeyTrack="1.0000" rootNote="48" start="774.000" volume="6.0dB"/>
+            <sample end="25600.000" hiNote="97" hiVel="127" loNote="97" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-97-127.wav" pitchKeyTrack="1.0000" rootNote="97" start="774.000" volume="6.0dB"/>
+            <sample end="23552.000" hiNote="51" hiVel="127" loNote="51" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-51-127.wav" pitchKeyTrack="1.0000" rootNote="51" start="774.000" volume="6.0dB"/>
+            <sample end="26112.000" hiNote="73" hiVel="127" loNote="73" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-73-127.wav" pitchKeyTrack="1.0000" rootNote="73" start="774.000" volume="6.0dB"/>
+            <sample end="25088.000" hiNote="41" hiVel="127" loNote="41" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-41-127.wav" pitchKeyTrack="1.0000" rootNote="41" start="774.000" volume="6.0dB"/>
+            <sample end="25600.000" hiNote="38" hiVel="127" loNote="38" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-38-127.wav" pitchKeyTrack="1.0000" rootNote="38" start="774.000" volume="6.0dB"/>
+            <sample end="27136.000" hiNote="88" hiVel="127" loNote="88" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-88-127.wav" pitchKeyTrack="1.0000" rootNote="88" start="774.000" volume="6.0dB"/>
+            <sample end="23552.000" hiNote="69" hiVel="127" loNote="69" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-69-127.wav" pitchKeyTrack="1.0000" rootNote="69" start="774.000" volume="6.0dB"/>
+            <sample end="24064.000" hiNote="79" hiVel="127" loNote="79" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-79-127.wav" pitchKeyTrack="1.0000" rootNote="79" start="774.000" volume="6.0dB"/>
+            <sample end="27648.000" hiNote="77" hiVel="127" loNote="77" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-77-127.wav" pitchKeyTrack="1.0000" rootNote="77" start="774.000" volume="6.0dB"/>
+            <sample end="25600.000" hiNote="66" hiVel="127" loNote="66" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-66-127.wav" pitchKeyTrack="1.0000" rootNote="66" start="774.000" volume="6.0dB"/>
+            <sample end="22528.000" hiNote="72" hiVel="127" loNote="72" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-72-127.wav" pitchKeyTrack="1.0000" rootNote="72" start="774.000" volume="6.0dB"/>
+            <sample end="24064.000" hiNote="59" hiVel="127" loNote="59" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-59-127.wav" pitchKeyTrack="1.0000" rootNote="59" start="774.000" volume="6.0dB"/>
+            <sample end="27648.000" hiNote="75" hiVel="127" loNote="75" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-75-127.wav" pitchKeyTrack="1.0000" rootNote="75" start="774.000" volume="6.0dB"/>
+            <sample end="23552.000" hiNote="47" hiVel="127" loNote="47" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-47-127.wav" pitchKeyTrack="1.0000" rootNote="47" start="774.000" volume="6.0dB"/>
+            <sample end="22016.000" hiNote="98" hiVel="127" loNote="98" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-98-127.wav" pitchKeyTrack="1.0000" rootNote="98" start="774.000" volume="6.0dB"/>
+            <sample end="30208.000" hiNote="100" hiVel="127" loNote="100" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-100-127.wav" pitchKeyTrack="1.0000" rootNote="100" start="774.000" volume="6.0dB"/>
+            <sample end="26112.000" hiNote="71" hiVel="127" loNote="71" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-71-127.wav" pitchKeyTrack="1.0000" rootNote="71" start="774.000" volume="6.0dB"/>
+            <sample end="25600.000" hiNote="99" hiVel="127" loNote="99" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-99-127.wav" pitchKeyTrack="1.0000" rootNote="99" start="774.000" volume="6.0dB"/>
+            <sample end="23040.000" hiNote="57" hiVel="127" loNote="57" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-57-127.wav" pitchKeyTrack="1.0000" rootNote="57" start="774.000" volume="6.0dB"/>
+            <sample end="23552.000" hiNote="64" hiVel="127" loNote="64" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-64-127.wav" pitchKeyTrack="1.0000" rootNote="64" start="774.000" volume="6.0dB"/>
+            <sample end="27136.000" hiNote="49" hiVel="127" loNote="49" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-49-127.wav" pitchKeyTrack="1.0000" rootNote="49" start="774.000" volume="6.0dB"/>
+            <sample end="24576.000" hiNote="36" hiVel="127" loNote="36" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-36-127.wav" pitchKeyTrack="1.0000" rootNote="36" start="774.000" volume="6.0dB"/>
+            <sample end="28160.000" hiNote="46" hiVel="127" loNote="46" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-46-127.wav" pitchKeyTrack="1.0000" rootNote="46" start="774.000" volume="6.0dB"/>
+            <sample end="26624.000" hiNote="93" hiVel="127" loNote="93" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-93-127.wav" pitchKeyTrack="1.0000" rootNote="93" start="774.000" volume="6.0dB"/>
+            <sample end="25600.000" hiNote="95" hiVel="127" loNote="95" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-95-127.wav" pitchKeyTrack="1.0000" rootNote="95" start="774.000" volume="6.0dB"/>
+            <sample end="27136.000" hiNote="89" hiVel="127" loNote="89" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-89-127.wav" pitchKeyTrack="1.0000" rootNote="89" start="774.000" volume="6.0dB"/>
+            <sample end="22528.000" hiNote="91" hiVel="127" loNote="91" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-91-127.wav" pitchKeyTrack="1.0000" rootNote="91" start="774.000" volume="6.0dB"/>
+            <sample end="28160.000" hiNote="67" hiVel="127" loNote="67" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-67-127.wav" pitchKeyTrack="1.0000" rootNote="67" start="774.000" volume="6.0dB"/>
+            <sample end="22528.000" hiNote="94" hiVel="127" loNote="94" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-94-127.wav" pitchKeyTrack="1.0000" rootNote="94" start="774.000" volume="6.0dB"/>
+            <sample end="36352.000" hiNote="108" hiVel="127" loNote="108" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-108-127.wav" pitchKeyTrack="1.0000" rootNote="108" start="774.000" volume="6.0dB"/>
+            <sample end="21504.000" hiNote="56" hiVel="127" loNote="56" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-56-127.wav" pitchKeyTrack="1.0000" rootNote="56" start="774.000" volume="6.0dB"/>
+            <sample end="25088.000" hiNote="53" hiVel="127" loNote="53" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-53-127.wav" pitchKeyTrack="1.0000" rootNote="53" start="774.000" volume="6.0dB"/>
+            <sample end="28672.000" hiNote="54" hiVel="127" loNote="54" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-54-127.wav" pitchKeyTrack="1.0000" rootNote="54" start="774.000" volume="6.0dB"/>
+            <sample end="26112.000" hiNote="45" hiVel="127" loNote="45" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-45-127.wav" pitchKeyTrack="1.0000" rootNote="45" start="774.000" volume="6.0dB"/>
+            <sample end="29696.000" hiNote="63" hiVel="127" loNote="63" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-63-127.wav" pitchKeyTrack="1.0000" rootNote="63" start="774.000" volume="6.0dB"/>
+            <sample end="26112.000" hiNote="62" hiVel="127" loNote="62" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-62-127.wav" pitchKeyTrack="1.0000" rootNote="62" start="774.000" volume="6.0dB"/>
+            <sample end="22016.000" hiNote="65" hiVel="127" loNote="65" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-65-127.wav" pitchKeyTrack="1.0000" rootNote="65" start="774.000" volume="6.0dB"/>
+            <sample end="26112.000" hiNote="50" hiVel="127" loNote="50" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-50-127.wav" pitchKeyTrack="1.0000" rootNote="50" start="774.000" volume="6.0dB"/>
+            <sample end="23552.000" hiNote="90" hiVel="127" loNote="90" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-90-127.wav" pitchKeyTrack="1.0000" rootNote="90" start="774.000" volume="6.0dB"/>
+            <sample end="25600.000" hiNote="84" hiVel="127" loNote="84" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-84-127.wav" pitchKeyTrack="1.0000" rootNote="84" start="774.000" volume="6.0dB"/>
+            <sample end="24576.000" hiNote="68" hiVel="127" loNote="68" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-68-127.wav" pitchKeyTrack="1.0000" rootNote="68" start="774.000" volume="6.0dB"/>
+            <sample end="23552.000" hiNote="76" hiVel="127" loNote="76" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-76-127.wav" pitchKeyTrack="1.0000" rootNote="76" start="774.000" volume="6.0dB"/>
+            <sample end="22016.000" hiNote="44" hiVel="127" loNote="44" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-44-127.wav" pitchKeyTrack="1.0000" rootNote="44" start="774.000" volume="6.0dB"/>
+            <sample end="25600.000" hiNote="58" hiVel="127" loNote="58" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-58-127.wav" pitchKeyTrack="1.0000" rootNote="58" start="774.000" volume="6.0dB"/>
+            <sample end="24576.000" hiNote="101" hiVel="127" loNote="101" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-101-127.wav" pitchKeyTrack="1.0000" rootNote="101" start="774.000" volume="6.0dB"/>
+            <sample end="25088.000" hiNote="80" hiVel="127" loNote="80" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-80-127.wav" pitchKeyTrack="1.0000" rootNote="80" start="774.000" volume="6.0dB"/>
+            <sample end="29696.000" hiNote="96" hiVel="127" loNote="96" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-96-127.wav" pitchKeyTrack="1.0000" rootNote="96" start="774.000" volume="6.0dB"/>
+            <sample end="27136.000" hiNote="104" hiVel="127" loNote="104" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-104-127.wav" pitchKeyTrack="1.0000" rootNote="104" start="774.000" volume="6.0dB"/>
+            <sample end="23552.000" hiNote="40" hiVel="127" loNote="40" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-40-127.wav" pitchKeyTrack="1.0000" rootNote="40" start="774.000" volume="6.0dB"/>
+            <sample end="22016.000" hiNote="61" hiVel="127" loNote="61" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-61-127.wav" pitchKeyTrack="1.0000" rootNote="61" start="774.000" volume="6.0dB"/>
+            <sample end="22528.000" hiNote="43" hiVel="127" loNote="43" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-43-127.wav" pitchKeyTrack="1.0000" rootNote="43" start="774.000" volume="6.0dB"/>
+            <sample end="23552.000" hiNote="60" hiVel="127" loNote="60" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-60-127.wav" pitchKeyTrack="1.0000" rootNote="60" start="774.000" volume="6.0dB"/>
+            <sample end="27136.000" hiNote="78" hiVel="127" loNote="78" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-78-127.wav" pitchKeyTrack="1.0000" rootNote="78" start="774.000" volume="6.0dB"/>
+            <sample end="24576.000" hiNote="86" hiVel="127" loNote="86" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-86-127.wav" pitchKeyTrack="1.0000" rootNote="86" start="774.000" volume="6.0dB"/>
+            <sample end="23040.000" hiNote="83" hiVel="127" loNote="83" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-83-127.wav" pitchKeyTrack="1.0000" rootNote="83" start="774.000" volume="6.0dB"/>
+            <sample end="26624.000" hiNote="55" hiVel="127" loNote="55" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-55-127.wav" pitchKeyTrack="1.0000" rootNote="55" start="774.000" volume="6.0dB"/>
+            <sample end="27648.000" hiNote="74" hiVel="127" loNote="74" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-74-127.wav" pitchKeyTrack="1.0000" rootNote="74" start="774.000" volume="6.0dB"/>
+            <sample end="28672.000" hiNote="81" hiVel="127" loNote="81" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-81-127.wav" pitchKeyTrack="1.0000" rootNote="81" start="774.000" volume="6.0dB"/>
+            <sample end="28160.000" hiNote="92" hiVel="127" loNote="92" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-92-127.wav" pitchKeyTrack="1.0000" rootNote="92" start="774.000" volume="6.0dB"/>
+            <sample end="22528.000" hiNote="102" hiVel="127" loNote="102" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-102-127.wav" pitchKeyTrack="1.0000" rootNote="102" start="774.000" volume="6.0dB"/>
+            <sample end="25088.000" hiNote="37" hiVel="127" loNote="37" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-37-127.wav" pitchKeyTrack="1.0000" rootNote="37" start="774.000" volume="6.0dB"/>
+            <sample end="24576.000" hiNote="87" hiVel="127" loNote="87" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-87-127.wav" pitchKeyTrack="1.0000" rootNote="87" start="774.000" volume="6.0dB"/>
+            <sample end="25088.000" hiNote="105" hiVel="127" loNote="105" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-105-127.wav" pitchKeyTrack="1.0000" rootNote="105" start="774.000" volume="6.0dB"/>
+            <sample end="25088.000" hiNote="42" hiVel="127" loNote="42" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-42-127.wav" pitchKeyTrack="1.0000" rootNote="42" start="774.000" volume="6.0dB"/>
+            <sample end="28672.000" hiNote="85" hiVel="127" loNote="85" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-85-127.wav" pitchKeyTrack="1.0000" rootNote="85" start="774.000" volume="6.0dB"/>
+            <sample end="29184.000" hiNote="70" hiVel="127" loNote="70" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-70-127.wav" pitchKeyTrack="1.0000" rootNote="70" start="774.000" volume="6.0dB"/>
+            <sample end="22528.000" hiNote="39" hiVel="127" loNote="39" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-39-127.wav" pitchKeyTrack="1.0000" rootNote="39" start="774.000" volume="6.0dB"/>
+            <sample end="25600.000" hiNote="106" hiVel="127" loNote="106" loVel="1" path="mr clicky Samples/07 - Mr Clicky Thud-106-127.wav" pitchKeyTrack="1.0000" rootNote="106" start="774.000" volume="6.0dB"/>
+            <sample end="32256.000" hiNote="107" hiVel="127" loNote="107" loVel="0" path="mr clicky Samples/07 - Mr Clicky Thud-107-127.wav" pitchKeyTrack="1.0000" rootNote="107" start="774.000" volume="6.0dB"/>
+        </group>
+    </groups>
+    <effects>
+        <effect frequency="22000" resonance="0.5" type="lowpass_4pl"/>
+        <effect type="reverb"/>
+    </effects>
+</DecentSampler>
